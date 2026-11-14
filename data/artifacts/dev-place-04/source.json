@@ -1,0 +1,24 @@
+{
+  "query": "Amsterdam, Netherlands",
+  "nominatim_url": "https://nominatim.openstreetmap.org/search?q=Amsterdam%2C+Netherlands&format=jsonv2&limit=5&accept-language=en",
+  "overpass_endpoint": "https://overpass-api.de/api/interpreter",
+  "display_name": "Amsterdam, North Holland, Netherlands",
+  "osm_type": "relation",
+  "osm_id": 271110,
+  "latitude": 52.3730796,
+  "longitude": 4.8924534,
+  "bbox_wgs84": [
+    4.8906877,
+    52.3720016,
+    4.8942191,
+    52.3741576
+  ],
+  "osm_ways": 116,
+  "sumo_edges": 34,
+  "retrieved_utc": "2026-11-14T04:25:41.159467+00:00",
+  "osm_sha256": "ca637163070dfe93b41e66367f047467d60a61e91185ab1a2b1611a2b760594b",
+  "netconvert_options": [
+    "--keep-edges.by-vclass",
+    "passenger"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "query": "Vienna, Austria",
+  "nominatim_url": "https://nominatim.openstreetmap.org/search?q=Vienna%2C+Austria&format=jsonv2&limit=5&accept-language=en",
+  "overpass_endpoint": "https://overpass-api.de/api/interpreter",
+  "display_name": "Vienna, Austria",
+  "osm_type": "relation",
+  "osm_id": 109166,
+  "latitude": 48.2083537,
+  "longitude": 16.3725042,
+  "bbox_wgs84": [
+    16.3708867,
+    48.2072757,
+    16.3741217,
+    48.2094317
+  ],
+  "osm_ways": 246,
+  "sumo_edges": 40,
+  "retrieved_utc": "2026-11-14T04:26:16.316058+00:00",
+  "osm_sha256": "9c3f814b3ce6046054ee0c0af281fb1a169169b21890c773391824656ca34926",
+  "netconvert_options": [
+    "--keep-edges.by-vclass",
+    "passenger"
+  ]
+}

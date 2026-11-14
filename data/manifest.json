@@ -1,0 +1,25 @@
+{
+  "version": "0.1.1-pilot",
+  "created_utc": "2026-11-14T04:26:17.521607+00:00",
+  "netconvert_version": "Eclipse SUMO netconvert 1.28.0",
+  "sumo_version": "Eclipse SUMO sumo 1.28.0",
+  "counts": {
+    "train": {
+      "synthetic": 12,
+      "real_map": 8,
+      "edit": 12
+    },
+    "dev": {
+      "synthetic": 4,
+      "real_map": 2,
+      "edit": 4
+    },
+    "test": {
+      "synthetic": 4,
+      "real_map": 2,
+      "edit": 4
+    }
+  },
+  "label_status": "automatic_pilot",
+  "license": "Real map data © OpenStreetMap contributors, ODbL"
+}

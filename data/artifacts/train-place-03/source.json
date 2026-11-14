@@ -1,0 +1,24 @@
+{
+  "query": "Tokyo, Japan",
+  "nominatim_url": "https://nominatim.openstreetmap.org/search?q=Tokyo%2C+Japan&format=jsonv2&limit=5&accept-language=en",
+  "overpass_endpoint": "https://overpass-api.de/api/interpreter",
+  "display_name": "Tokyo, Japan",
+  "osm_type": "relation",
+  "osm_id": 1543125,
+  "latitude": 35.6768601,
+  "longitude": 139.7638947,
+  "bbox_wgs84": [
+    139.7625677,
+    35.6757821,
+    139.7652217,
+    35.6779381
+  ],
+  "osm_ways": 125,
+  "sumo_edges": 82,
+  "retrieved_utc": "2026-11-14T04:24:55.571315+00:00",
+  "osm_sha256": "9ea620db1efd5c82f7a2ae4570977ed7474489217d46d6a074a13c9f15d86e17",
+  "netconvert_options": [
+    "--keep-edges.by-vclass",
+    "passenger"
+  ]
+}

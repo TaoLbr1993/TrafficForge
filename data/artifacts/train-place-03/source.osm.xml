@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-11-14T04:23:51Z"/>
+
+  <node id="257547230" lat="35.6780469" lon="139.7634467" version="12" timestamp="2025-11-11T23:02:23Z" changeset="174534205" uid="12272282" user="近場行き">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="東京国際フォーラム西"/>
+    <tag k="name:en" v="Tokyo International Forum - West"/>
+    <tag k="name:es" v="Foro Internacional de Tokio - Oeste"/>
+    <tag k="ref" v="101-11"/>
+  </node>
+  <node id="257547610" lat="35.6784502" lon="139.7610353" version="18" timestamp="2023-02-20T13:51:45Z" changeset="132792342" uid="4702051" user="Otenkiya">
+    <tag k="ele" v="3"/>
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="馬場先門"/>
+    <tag k="name:en" v="Babasakimon"/>
+    <tag k="name:ja" v="馬場先門"/>
+  </node>
+  <node id="257547611" lat="35.6779341" lon="139.7634089" version="11" timestamp="2025-11-11T23:02:23Z" changeset="174534205" uid="12272282" user="近場行き">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="東京国際フォーラム西"/>
+    <tag k="name:en" v="Tokyo International Forum - West"/>
+    <tag k="name:es" v="Foro Internacional de Tokio - Oeste"/>
+    <tag k="ref" v="101-11"/>
+  </node>
+  <node id="260415912" lat="35.6750204" lon="139.7624582" version="15" timestamp="2025-11-01T08:04:35Z" changeset="174049512" uid="12272282" user="近場行き">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="有楽町駅前"/>
+    <tag k="name:en" v="Yurakucho Sta."/>
+    <tag k="name:es" v="Yurakucho Sta."/>
+  </node>
+  <node id="473468152" lat="35.6768763" lon="139.7630551" version="8" timestamp="2023-09-29T07:51:19Z" changeset="141899725" uid="10703212" user="にいとみ">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="丸の内三丁目"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="473468675" lat="35.6781876" lon="139.7622407" version="9" timestamp="2022-11-14T17:25:32Z" changeset="128902214" uid="12272282" user="近場行き">
+    <tag k="junction" v="yes"/>
+  </node>
+  <node id="715826087" lat="35.6758403" lon="139.7627129" version="7" timestamp="2024-08-13T07:46:56Z" changeset="155181539" uid="5177972" user="SilkBlue">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1417714469" lat="35.6756429" lon="139.7636153" version="2" timestamp="2013-01-28T22:23:11Z" changeset="14828793" uid="24247" user="Vlad"/>
+  <node id="1580648027" lat="35.6757400" lon="139.7636226" version="2" timestamp="2014-06-12T17:55:55Z" changeset="22893946" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648028" lat="35.6758090" lon="139.7632907" version="3" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648029" lat="35.6758128" lon="139.7638607" version="1" timestamp="2012-01-07T08:34:19Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648031" lat="35.6758326" lon="139.7635970" version="2" timestamp="2014-06-12T17:55:55Z" changeset="22893946" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648032" lat="35.6758735" lon="139.7634072" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648033" lat="35.6758928" lon="139.7633183" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648036" lat="35.6759773" lon="139.7640854" version="1" timestamp="2012-01-07T08:34:19Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648037" lat="35.6761219" lon="139.7634890" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648039" lat="35.6761485" lon="139.7642768" version="1" timestamp="2012-01-07T08:34:19Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648040" lat="35.6761523" lon="139.7633492" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648041" lat="35.6761772" lon="139.7635954" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648042" lat="35.6762255" lon="139.7633733" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648043" lat="35.6762630" lon="139.7637798" version="1" timestamp="2012-01-07T08:34:20Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648045" lat="35.6763333" lon="139.7644598" version="1" timestamp="2012-01-07T08:34:20Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648046" lat="35.6765053" lon="139.7637034" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648047" lat="35.6765203" lon="139.7646180" version="1" timestamp="2012-01-07T08:34:20Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648048" lat="35.6765360" lon="139.7635620" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648050" lat="35.6765589" lon="139.7638438" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648051" lat="35.6766145" lon="139.7635878" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648052" lat="35.6766231" lon="139.7640270" version="1" timestamp="2012-01-07T08:34:20Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648053" lat="35.6766353" lon="139.7647012" version="1" timestamp="2012-01-07T08:34:20Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648055" lat="35.6768493" lon="139.7642153" version="1" timestamp="2012-01-07T08:34:20Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648057" lat="35.6769395" lon="139.7648926" version="1" timestamp="2012-01-07T08:34:20Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648058" lat="35.6769657" lon="139.7639778" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648059" lat="35.6769936" lon="139.7641972" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648060" lat="35.6769973" lon="139.7638326" version="2" timestamp="2014-06-12T18:07:33Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648061" lat="35.6770678" lon="139.7638558" version="2" timestamp="2014-06-12T18:07:34Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648062" lat="35.6770851" lon="139.7644585" version="1" timestamp="2012-01-07T08:34:21Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648064" lat="35.6772527" lon="139.7650535" version="1" timestamp="2012-01-07T08:34:21Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648065" lat="35.6772700" lon="139.7646900" version="3" timestamp="2018-06-16T13:54:54Z" changeset="59895091" uid="6108657" user="maripogoda">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="1580648067" lat="35.6773592" lon="139.7648194" version="1" timestamp="2012-01-07T08:34:21Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648068" lat="35.6774070" lon="139.7648822" version="1" timestamp="2012-01-07T08:34:21Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648069" lat="35.6774212" lon="139.7651058" version="4" timestamp="2025-01-24T13:43:43Z" changeset="161713047" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="note" v="右折禁止"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="1580648073" lat="35.6775090" lon="139.7649057" version="1" timestamp="2012-01-07T08:34:21Z" changeset="10318964" uid="192905" user="ribbon"/>
+  <node id="1580648074" lat="35.6775588" lon="139.7643834" version="2" timestamp="2014-06-12T18:07:34Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648075" lat="35.6775908" lon="139.7642363" version="2" timestamp="2014-06-12T18:07:34Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1580648076" lat="35.6776485" lon="139.7642553" version="2" timestamp="2014-06-12T18:07:34Z" changeset="22894176" uid="571410" user="Антін Сартенченко"/>
+  <node id="1588249020" lat="35.6760893" lon="139.7615479" version="3" timestamp="2014-06-13T16:41:58Z" changeset="22912173" uid="571410" user="Антін Сартенченко"/>
+  <node id="1588249027" lat="35.6763742" lon="139.7603110" version="3" timestamp="2016-04-11T17:39:44Z" changeset="38480992" uid="3150532" user="dqn"/>
+  <node id="1588249035" lat="35.6775982" lon="139.7656765" version="3" timestamp="2025-01-24T13:43:43Z" changeset="161713047" uid="12272282" user="近場行き"/>
+  <node id="1588249044" lat="35.6776935" lon="139.7650619" version="6" timestamp="2022-04-08T14:27:14Z" changeset="119473725" uid="621319" user="hayashi">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="東京国際フォーラム東"/>
+    <tag k="name:en" v="Tokyo kokusai Forum E."/>
+  </node>
+  <node id="1588249047" lat="35.6783055" lon="139.7622796" version="6" timestamp="2022-11-14T17:25:32Z" changeset="128902214" uid="12272282" user="近場行き">
+    <tag k="junction" v="yes"/>
+  </node>
+  <node id="1588257511" lat="35.6773813" lon="139.7659514" version="3" timestamp="2022-10-19T08:33:21Z" changeset="127766170" uid="12272282" user="近場行き"/>
+  <node id="1588257516" lat="35.6776723" lon="139.7651583" version="5" timestamp="2022-04-08T14:27:14Z" changeset="119473725" uid="621319" user="hayashi">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="東京国際フォーラム東"/>
+    <tag k="name:en" v="Tokyo kokusai Forum E."/>
+  </node>
+  <node id="1609788031" lat="35.6789801" lon="139.7655185" version="7" timestamp="2025-10-24T14:37:34Z" changeset="173721492" uid="12272282" user="近場行き">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="ref" v="101-50"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+  </node>
+  <node id="2131742741" lat="35.6745879" lon="139.7623168" version="5" timestamp="2025-08-04T14:58:32Z" changeset="169961398" uid="12272282" user="近場行き">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="有楽町駅前"/>
+    <tag k="name:en" v="Yurakucho Sta."/>
+    <tag k="name:es" v="Yurakucho Sta."/>
+  </node>
+  <node id="2133066667" lat="35.6754511" lon="139.7644129" version="3" timestamp="2025-01-03T05:17:14Z" changeset="160934660" uid="12272282" user="近場行き"/>
+  <node id="2253618247" lat="35.6749417" lon="139.7624308" version="8" timestamp="2025-08-04T09:40:38Z" changeset="169941840" uid="10675085" user="2tefan">
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2253618251" lat="35.6751073" lon="139.7624875" version="6" timestamp="2025-08-04T09:42:06Z" changeset="169941840" uid="10675085" user="2tefan">
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2253618252" lat="35.6757510" lon="139.7626876" version="6" timestamp="2025-08-04T09:37:03Z" changeset="169941828" uid="10675085" user="2tefan">
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="2253618255" lat="35.6758113" lon="139.7628405" version="5" timestamp="2025-08-02T10:31:12Z" changeset="169855515" uid="10675085" user="2tefan">
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2253618257" lat="35.6758660" lon="139.7625983" version="4" timestamp="2025-08-04T09:37:06Z" changeset="169941828" uid="10675085" user="2tefan">
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="2253618259" lat="35.6759331" lon="139.7627450" version="5" timestamp="2025-08-04T09:37:08Z" changeset="169941828" uid="10675085" user="2tefan">
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="2253618281" lat="35.6768086" lon="139.7630328" version="7" timestamp="2025-08-04T09:35:55Z" changeset="169941840" uid="10675085" user="2tefan">
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2253618286" lat="35.6768956" lon="139.7629595" version="6" timestamp="2025-08-04T09:35:53Z" changeset="169941840" uid="10675085" user="2tefan">
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2253618291" lat="35.6769551" lon="139.7630816" version="7" timestamp="2025-08-04T09:36:01Z" changeset="169941840" uid="10675085" user="2tefan">
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2262158633" lat="35.6784228" lon="139.7611675" version="5" timestamp="2023-09-23T04:34:49Z" changeset="141628082" uid="6532993" user="sash89">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2569142488" lat="35.6775601" lon="139.7641881" version="7" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き">
+    <tag k="name" v="京葉線口"/>
+    <tag k="name:en" v="Keiyo Line Entrance"/>
+    <tag k="name:es" v="Entrada a la línea Keiyo"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2569142489" lat="35.6758436" lon="139.7633623" version="5" timestamp="2017-10-09T06:03:20Z" changeset="52747962" uid="6629025" user="Kerokikoh">
+    <tag k="name" v="有楽町駅"/>
+    <tag k="name:en" v="Yurakucho Station"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="ref" v="D5"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2694545763" lat="35.6775389" lon="139.7658412" version="4" timestamp="2025-03-26T15:26:34Z" changeset="164127115" uid="12272282" user="近場行き"/>
+  <node id="2694556937" lat="35.6776226" lon="139.7651424" version="1" timestamp="2014-02-28T14:02:42Z" changeset="20827903" uid="571410" user="Антін Сартенченко"/>
+  <node id="2744463661" lat="35.6754937" lon="139.7626090" version="6" timestamp="2021-12-29T07:58:43Z" changeset="115504320" uid="2352862" user="Netzach"/>
+  <node id="3677320542" lat="35.6789614" lon="139.7656068" version="7" timestamp="2025-10-24T14:37:34Z" changeset="173721492" uid="12272282" user="近場行き">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="ref" v="101-50"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+  </node>
+  <node id="3677320543" lat="35.6790038" lon="139.7654100" version="1" timestamp="2015-08-02T09:58:05Z" changeset="33045307" uid="571410" user="Антін Сартенченко"/>
+  <node id="3677323961" lat="35.6778407" lon="139.7648697" version="1" timestamp="2015-08-02T10:01:46Z" changeset="33045361" uid="571410" user="Антін Сартенченко"/>
+  <node id="3677323962" lat="35.6778872" lon="139.7649865" version="1" timestamp="2015-08-02T10:01:46Z" changeset="33045361" uid="571410" user="Антін Сартенченко"/>
+  <node id="3677324177" lat="35.6781186" lon="139.7635847" version="1" timestamp="2015-08-02T10:03:36Z" changeset="33045385" uid="571410" user="Антін Сартенченко"/>
+  <node id="3925226870" lat="35.6778356" lon="139.7650347" version="5" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="3925263854" lat="35.6777855" lon="139.7652443" version="5" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4114764644" lat="35.6776443" lon="139.7650665" version="1" timestamp="2016-04-11T17:50:38Z" changeset="38480992" uid="3150532" user="dqn"/>
+  <node id="4114764645" lat="35.6773359" lon="139.7650857" version="1" timestamp="2016-04-11T17:50:38Z" changeset="38480992" uid="3150532" user="dqn"/>
+  <node id="4114764646" lat="35.6775734" lon="139.7650909" version="3" timestamp="2022-04-08T14:27:14Z" changeset="119473725" uid="621319" user="hayashi">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="東京国際フォーラム東"/>
+    <tag k="name:en" v="Tokyo kokusai Forum E."/>
+  </node>
+  <node id="4428409505" lat="35.6772128" lon="139.7659027" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409506" lat="35.6767004" lon="139.7654873" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409507" lat="35.6763630" lon="139.7652478" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409508" lat="35.6763779" lon="139.7651953" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409509" lat="35.6763664" lon="139.7651414" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409510" lat="35.6762950" lon="139.7650847" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409511" lat="35.6763347" lon="139.7651152" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409512" lat="35.6761626" lon="139.7649827" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409513" lat="35.6760497" lon="139.7648792" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409514" lat="35.6759254" lon="139.7647644" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409515" lat="35.6758160" lon="139.7646581" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409516" lat="35.6757791" lon="139.7646141" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409517" lat="35.6756502" lon="139.7644752" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4428409518" lat="35.6755534" lon="139.7644454" version="1" timestamp="2016-10-03T03:14:18Z" changeset="42595093" uid="619933" user="Yu_stl"/>
+  <node id="4736332671" lat="35.6776234" lon="139.7648576" version="9" timestamp="2023-09-23T04:33:26Z" changeset="141628086" uid="6532993" user="sash89">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="4736332672" lat="35.6777303" lon="139.7648936" version="7" timestamp="2023-09-23T04:30:13Z" changeset="141628088" uid="6532993" user="sash89">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="4736332674" lat="35.6760235" lon="139.7636781" version="3" timestamp="2023-11-23T03:31:05Z" changeset="144350042" uid="20164301" user="nmvi_1">
+    <tag k="entrance" v="main"/>
+    <tag k="level" v="0"/>
+    <tag k="note" v="インターホン、チャイムあり(現地確認/2023.11.23/nmvi)"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5097423502" lat="35.6755151" lon="139.7644332" version="2" timestamp="2025-02-08T16:02:50Z" changeset="162285457" uid="12272282" user="近場行き">
+    <tag k="crossing" v="unmarked"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5097423504" lat="35.6756793" lon="139.7637484" version="2" timestamp="2025-10-25T11:20:39Z" changeset="173751607" uid="12272282" user="近場行き"/>
+  <node id="5097423506" lat="35.6758608" lon="139.7640037" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423507" lat="35.6760722" lon="139.7642612" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423508" lat="35.6763456" lon="139.7645186" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423509" lat="35.6765363" lon="139.7646823" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423510" lat="35.6767552" lon="139.7648338" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423511" lat="35.6771191" lon="139.7650363" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423512" lat="35.6772923" lon="139.7651114" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423513" lat="35.6774252" lon="139.7651557" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423514" lat="35.6774607" lon="139.7651528" version="3" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="5097423516" lat="35.6774786" lon="139.7651812" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423517" lat="35.6773969" lon="139.7655030" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423518" lat="35.6773318" lon="139.7657483" version="2" timestamp="2025-11-15T13:18:28Z" changeset="174686722" uid="16909100" user="umapjpnic793"/>
+  <node id="5097423519" lat="35.6773010" lon="139.7658933" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423520" lat="35.6772941" lon="139.7659262" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423621" lat="35.6772847" lon="139.7659697" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423622" lat="35.6771539" lon="139.7666135" version="1" timestamp="2017-09-11T09:08:55Z" changeset="51932703" uid="162590" user="higa4"/>
+  <node id="5097423624" lat="35.6771027" lon="139.7667020" version="2" timestamp="2024-08-20T02:12:26Z" changeset="155487605" uid="9870387" user="Mzaki"/>
+  <node id="5110316636" lat="35.6757498" lon="139.7628216" version="1" timestamp="2017-09-17T03:17:42Z" changeset="52108044" uid="162590" user="higa4"/>
+  <node id="5110316643" lat="35.6756519" lon="139.7635742" version="3" timestamp="2025-10-25T11:20:39Z" changeset="173751607" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="ref" v="101-56"/>
+  </node>
+  <node id="5110316645" lat="35.6757117" lon="139.7635887" version="1" timestamp="2017-09-17T03:17:42Z" changeset="52108044" uid="162590" user="higa4"/>
+  <node id="5110316647" lat="35.6757023" lon="139.7637016" version="3" timestamp="2025-10-25T11:20:39Z" changeset="173751607" uid="12272282" user="近場行き">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5110316649" lat="35.6757117" lon="139.7636370" version="1" timestamp="2017-09-17T03:17:42Z" changeset="52108044" uid="162590" user="higa4"/>
+  <node id="5110316650" lat="35.6758740" lon="139.7628598" version="1" timestamp="2017-09-17T03:17:42Z" changeset="52108044" uid="162590" user="higa4"/>
+  <node id="5110316651" lat="35.6758816" lon="139.7628471" version="1" timestamp="2017-09-17T03:17:42Z" changeset="52108044" uid="162590" user="higa4"/>
+  <node id="5110316652" lat="35.6758969" lon="139.7628438" version="1" timestamp="2017-09-17T03:17:42Z" changeset="52108044" uid="162590" user="higa4"/>
+  <node id="5110316653" lat="35.6767984" lon="139.7631408" version="1" timestamp="2017-09-17T03:17:42Z" changeset="52108044" uid="162590" user="higa4"/>
+  <node id="5110316654" lat="35.6768741" lon="139.7631643" version="1" timestamp="2017-09-17T03:17:42Z" changeset="52108044" uid="162590" user="higa4"/>
+  <node id="5110316655" lat="35.6778077" lon="139.7634720" version="2" timestamp="2022-10-19T16:36:50Z" changeset="127793365" uid="12272282" user="近場行き"/>
+  <node id="5110316656" lat="35.6778294" lon="139.7634798" version="2" timestamp="2024-08-24T08:46:28Z" changeset="155684247" uid="507417" user="tartiflex"/>
+  <node id="5110316657" lat="35.6775145" lon="139.7650067" version="1" timestamp="2017-09-17T03:17:42Z" changeset="52108044" uid="162590" user="higa4"/>
+  <node id="5110316658" lat="35.6775000" lon="139.7650386" version="2" timestamp="2025-01-22T06:14:57Z" changeset="161624251" uid="12272282" user="近場行き"/>
+  <node id="5110342826" lat="35.6751107" lon="139.7623689" version="3" timestamp="2025-11-01T08:04:35Z" changeset="174049512" uid="12272282" user="近場行き"/>
+  <node id="5110342828" lat="35.6757879" lon="139.7625981" version="1" timestamp="2017-09-17T03:52:51Z" changeset="52108296" uid="162590" user="higa4"/>
+  <node id="5110342829" lat="35.6758119" lon="139.7625767" version="1" timestamp="2017-09-17T03:52:51Z" changeset="52108296" uid="162590" user="higa4"/>
+  <node id="5110342830" lat="35.6760233" lon="139.7616218" version="1" timestamp="2017-09-17T03:52:51Z" changeset="52108296" uid="162590" user="higa4"/>
+  <node id="5110342831" lat="35.6760167" lon="139.7615896" version="1" timestamp="2017-09-17T03:52:51Z" changeset="52108296" uid="162590" user="higa4"/>
+  <node id="5110342832" lat="35.6753328" lon="139.7613901" version="3" timestamp="2019-01-06T14:57:44Z" changeset="66071899" uid="3242739" user="Carlos_N"/>
+  <node id="5110342873" lat="35.6757714" lon="139.7625927" version="1" timestamp="2017-09-17T03:52:52Z" changeset="52108296" uid="162590" user="higa4"/>
+  <node id="5110352923" lat="35.6747065" lon="139.7623577" version="3" timestamp="2025-08-04T14:58:32Z" changeset="169961398" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5110352932" lat="35.6751305" lon="139.7623746" version="2" timestamp="2019-01-06T15:02:04Z" changeset="66071983" uid="3242739" user="Carlos_N"/>
+  <node id="5509911910" lat="35.6765148" lon="139.7622392" version="1" timestamp="2018-03-28T04:29:25Z" changeset="57586755" uid="6108657" user="maripogoda"/>
+  <node id="5509911911" lat="35.6770175" lon="139.7624053" version="1" timestamp="2018-03-28T04:29:25Z" changeset="57586755" uid="6108657" user="maripogoda"/>
+  <node id="5596727611" lat="35.6759082" lon="139.7628475" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596727612" lat="35.6759401" lon="139.7626278" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596727619" lat="35.6761303" lon="139.7616808" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596727620" lat="35.6760165" lon="139.7616390" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728221" lat="35.6759874" lon="139.7615807" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728226" lat="35.6770540" lon="139.7619493" version="3" timestamp="2025-08-03T13:34:52Z" changeset="169903001" uid="10675085" user="2tefan">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="5596728227" lat="35.6771737" lon="139.7619879" version="3" timestamp="2025-08-03T13:34:59Z" changeset="169903001" uid="10675085" user="2tefan">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="5596728237" lat="35.6771608" lon="139.7619900" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728238" lat="35.6769579" lon="139.7629794" version="2" timestamp="2019-02-17T17:02:19Z" changeset="67285772" uid="309382" user="Diego Sanguinetti"/>
+  <node id="5596728239" lat="35.6769555" lon="139.7629915" version="2" timestamp="2019-02-17T17:02:19Z" changeset="67285772" uid="309382" user="Diego Sanguinetti"/>
+  <node id="5596728240" lat="35.6769728" lon="139.7630093" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728241" lat="35.6778465" lon="139.7632898" version="2" timestamp="2022-10-19T16:36:50Z" changeset="127793365" uid="12272282" user="近場行き"/>
+  <node id="5596728242" lat="35.6778689" lon="139.7632772" version="2" timestamp="2022-10-19T16:36:50Z" changeset="127793365" uid="12272282" user="近場行き"/>
+  <node id="5596728243" lat="35.6779881" lon="139.7627878" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728244" lat="35.6780882" lon="139.7623171" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728245" lat="35.6780872" lon="139.7622943" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728246" lat="35.6780753" lon="139.7622661" version="5" timestamp="2025-11-10T00:30:30Z" changeset="174439998" uid="2387146" user="k44">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="5596728247" lat="35.6775207" lon="139.7620851" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728248" lat="35.6772440" lon="139.7619952" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728249" lat="35.6771967" lon="139.7619841" version="1" timestamp="2018-05-04T15:11:34Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728250" lat="35.6762205" lon="139.7616653" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728251" lat="35.6764972" lon="139.7617552" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728252" lat="35.6770430" lon="139.7619322" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728253" lat="35.6770637" lon="139.7619644" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728254" lat="35.6769748" lon="139.7623915" version="2" timestamp="2018-07-04T03:44:40Z" changeset="60395617" uid="622545" user="FredN"/>
+  <node id="5596728255" lat="35.6761732" lon="139.7616542" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728256" lat="35.6761373" lon="139.7616601" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728257" lat="35.6759330" lon="139.7626633" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728258" lat="35.6759379" lon="139.7626767" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728259" lat="35.6759493" lon="139.7626794" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728260" lat="35.6768265" lon="139.7629653" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728261" lat="35.6768450" lon="139.7629666" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5596728262" lat="35.6770648" lon="139.7619871" version="1" timestamp="2018-05-04T15:11:35Z" changeset="58682604" uid="8217936" user="u4758943"/>
+  <node id="5737951045" lat="35.6761106" lon="139.7614542" version="3" timestamp="2025-08-03T13:35:54Z" changeset="169903001" uid="10675085" user="2tefan">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="5737951047" lat="35.6760660" lon="139.7616572" version="3" timestamp="2025-08-03T13:35:53Z" changeset="169903001" uid="10675085" user="2tefan">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="5737951049" lat="35.6763816" lon="139.7628202" version="1" timestamp="2018-07-04T03:44:40Z" changeset="60395617" uid="622545" user="FredN"/>
+  <node id="6193663529" lat="35.6757396" lon="139.7631335" version="1" timestamp="2019-01-08T22:00:45Z" changeset="66142436" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6193663530" lat="35.6757648" lon="139.7631126" version="1" timestamp="2019-01-08T22:00:45Z" changeset="66142436" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6193663531" lat="35.6762161" lon="139.7610891" version="1" timestamp="2019-01-08T22:00:45Z" changeset="66142436" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6193663532" lat="35.6762111" lon="139.7610641" version="2" timestamp="2019-02-17T16:36:48Z" changeset="67285070" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6193663533" lat="35.6757272" lon="139.7630974" version="1" timestamp="2019-01-08T22:00:45Z" changeset="66142436" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6193663534" lat="35.6761914" lon="139.7610793" version="1" timestamp="2019-01-08T22:00:45Z" changeset="66142436" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397298" lat="35.6782143" lon="139.7621193" version="3" timestamp="2025-05-07T23:12:37Z" changeset="165960079" uid="22042457" user="LSTR-256">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="6205397306" lat="35.6778188" lon="139.7635267" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397307" lat="35.6779022" lon="139.7635576" version="9" timestamp="2023-09-23T04:33:19Z" changeset="141628086" uid="6532993" user="sash89">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="6205397308" lat="35.6780137" lon="139.7635987" version="9" timestamp="2023-09-23T04:33:18Z" changeset="141628086" uid="6532993" user="sash89">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="6205397309" lat="35.6781080" lon="139.7636336" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397310" lat="35.6775502" lon="139.7648330" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397311" lat="35.6778688" lon="139.7649403" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397312" lat="35.6778189" lon="139.7651057" version="7" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+  </node>
+  <node id="6205397313" lat="35.6777958" lon="139.7652019" version="7" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+  </node>
+  <node id="6205397314" lat="35.6777745" lon="139.7652831" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397317" lat="35.6774701" lon="139.7651039" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="6205397318" lat="35.6774798" lon="139.7650554" version="3" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="6205397319" lat="35.6772779" lon="139.7649993" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397320" lat="35.6769764" lon="139.7648544" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397321" lat="35.6764571" lon="139.7644970" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397322" lat="35.6760879" lon="139.7641397" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6205397323" lat="35.6757621" lon="139.7637229" version="1" timestamp="2019-01-13T13:13:39Z" changeset="66273500" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6244220899" lat="35.6781649" lon="139.7623449" version="4" timestamp="2025-05-07T23:12:35Z" changeset="165960079" uid="22042457" user="LSTR-256">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="6244220902" lat="35.6780964" lon="139.7636872" version="1" timestamp="2019-01-29T12:29:28Z" changeset="66736808" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6244220907" lat="35.6780166" lon="139.7640562" version="1" timestamp="2019-01-29T12:29:28Z" changeset="66736808" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6244220908" lat="35.6778847" lon="139.7632276" version="1" timestamp="2019-01-29T12:29:28Z" changeset="66736808" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6244220909" lat="35.6779674" lon="139.7632557" version="7" timestamp="2023-09-23T04:31:50Z" changeset="141628088" uid="6532993" user="sash89">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="6244220910" lat="35.6780807" lon="139.7632943" version="7" timestamp="2023-09-23T04:31:48Z" changeset="141628088" uid="6532993" user="sash89">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="6244220911" lat="35.6781765" lon="139.7633269" version="1" timestamp="2019-01-29T12:29:28Z" changeset="66736808" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6244220912" lat="35.6778281" lon="139.7633736" version="3" timestamp="2022-10-19T16:36:50Z" changeset="127793365" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6284558554" lat="35.6763830" lon="139.7603517" version="2" timestamp="2025-10-24T12:55:48Z" changeset="173716854" uid="16909100" user="umapjpnic793"/>
+  <node id="6284558555" lat="35.6758247" lon="139.7629298" version="1" timestamp="2019-02-17T16:17:21Z" changeset="67284452" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284558556" lat="35.6757501" lon="139.7629048" version="1" timestamp="2019-02-17T16:17:21Z" changeset="67284452" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284558557" lat="35.6756283" lon="139.7634454" version="1" timestamp="2019-02-17T16:17:21Z" changeset="67284452" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284558558" lat="35.6757072" lon="139.7634637" version="2" timestamp="2019-02-17T16:26:32Z" changeset="67284727" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284558559" lat="35.6756563" lon="139.7633218" version="1" timestamp="2019-02-17T16:17:21Z" changeset="67284452" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284558560" lat="35.6757350" lon="139.7633371" version="1" timestamp="2019-02-17T16:17:21Z" changeset="67284452" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284558562" lat="35.6755087" lon="139.7643724" version="1" timestamp="2019-02-17T16:17:21Z" changeset="67284452" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284573848" lat="35.6754750" lon="139.7645264" version="1" timestamp="2019-02-17T16:22:38Z" changeset="67284610" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284578295" lat="35.6763602" lon="139.7604555" version="1" timestamp="2019-02-17T16:36:47Z" changeset="67285070" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284578296" lat="35.6758906" lon="139.7626231" version="1" timestamp="2019-02-17T16:36:47Z" changeset="67285070" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284578297" lat="35.6758735" lon="139.7627025" version="1" timestamp="2019-02-17T16:36:47Z" changeset="67285070" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284578300" lat="35.6759872" lon="139.7621730" version="1" timestamp="2019-02-17T16:36:47Z" changeset="67285070" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284578302" lat="35.6761613" lon="139.7613712" version="1" timestamp="2019-02-17T16:36:47Z" changeset="67285070" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284578303" lat="35.6762068" lon="139.7610635" version="1" timestamp="2019-02-17T16:36:48Z" changeset="67285070" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284578522" lat="35.6756679" lon="139.7634552" version="1" timestamp="2019-02-17T16:26:31Z" changeset="67284727" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284613202" lat="35.6760231" lon="139.7620078" version="1" timestamp="2019-02-17T16:49:35Z" changeset="67285403" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284627838" lat="35.6768499" lon="139.7629448" version="1" timestamp="2019-02-17T17:02:19Z" changeset="67285772" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284627839" lat="35.6769303" lon="139.7631828" version="1" timestamp="2019-02-17T17:02:19Z" changeset="67285772" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6284627840" lat="35.6767814" lon="139.7631352" version="1" timestamp="2019-02-17T17:02:19Z" changeset="67285772" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6396893125" lat="35.6781218" lon="139.7639433" version="3" timestamp="2025-01-24T13:43:43Z" changeset="161713047" uid="12272282" user="近場行き">
+    <tag k="name" v="京葉線口"/>
+    <tag k="name:en" v="Keiyo Line Entrance"/>
+    <tag k="name:es" v="Entrada a la línea Keiyo"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="ref" v="7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6397053334" lat="35.6778056" lon="139.7643496" version="4" timestamp="2026-03-30T04:55:47Z" changeset="180611734" uid="1772368" user="pizzaiolo">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="-3"/>
+  </node>
+  <node id="6397075531" lat="35.6777672" lon="139.7644134" version="3" timestamp="2025-02-15T15:30:18Z" changeset="162540138" uid="12272282" user="近場行き"/>
+  <node id="6397075543" lat="35.6778433" lon="139.7630104" version="2" timestamp="2023-11-06T14:30:01Z" changeset="143696079" uid="174705" user="AlexM51">
+    <tag k="name" v="京葉線口"/>
+    <tag k="name:en" v="Keiyo Line Entrance"/>
+    <tag k="name:es" v="Entrada a la línea Keiyo"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="ref" v="6"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6397075545" lat="35.6777669" lon="139.7646210" version="4" timestamp="2025-02-19T15:44:33Z" changeset="162706586" uid="12272282" user="近場行き"/>
+  <node id="6397075546" lat="35.6778256" lon="139.7643461" version="5" timestamp="2026-02-14T09:15:46Z" changeset="178535159" uid="3418742" user="corrector_91">
+    <tag k="barrier" v="turnstile"/>
+    <tag k="name" v="東京駅;京葉地下丸の内口"/>
+    <tag k="name:en" v="Tokyo Station Keiyo Underground Marunouchi Exit"/>
+  </node>
+  <node id="6397075552" lat="35.6778393" lon="139.7642818" version="1" timestamp="2019-04-10T19:10:01Z" changeset="69094419" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6397075553" lat="35.6779304" lon="139.7638379" version="1" timestamp="2019-04-10T19:10:01Z" changeset="69094419" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6397075554" lat="35.6781283" lon="139.7639016" version="1" timestamp="2019-04-10T19:10:01Z" changeset="69094419" uid="309382" user="Diego Sanguinetti"/>
+  <node id="6397075556" lat="35.6777162" lon="139.7642395" version="3" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="6397238092" lat="35.6775392" lon="139.7657550" version="2" timestamp="2025-01-24T06:11:27Z" changeset="161698753" uid="12272282" user="近場行き"/>
+  <node id="6397238093" lat="35.6779035" lon="139.7643047" version="2" timestamp="2025-02-15T15:30:18Z" changeset="162540138" uid="12272282" user="近場行き"/>
+  <node id="6483530169" lat="35.6784089" lon="139.7612314" version="1" timestamp="2019-05-19T09:17:10Z" changeset="70404916" uid="621319" user="hayashi">
+    <tag k="crossing" v="no"/>
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="7022642544" lat="35.6782816" lon="139.7623873" version="3" timestamp="2025-05-07T23:12:36Z" changeset="165960079" uid="22042457" user="LSTR-256">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="9389820661" lat="35.6789102" lon="139.7653760" version="1" timestamp="2022-01-04T00:39:01Z" changeset="115733020" uid="13734811" user="Zaneo"/>
+  <node id="9389820662" lat="35.6788843" lon="139.7654845" version="2" timestamp="2022-11-14T17:25:32Z" changeset="128902214" uid="12272282" user="近場行き"/>
+  <node id="9651932919" lat="35.6775345" lon="139.7652649" version="1" timestamp="2022-04-08T14:27:14Z" changeset="119473725" uid="621319" user="hayashi">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="9651932920" lat="35.6778460" lon="139.7652195" version="1" timestamp="2022-04-08T14:27:14Z" changeset="119473725" uid="621319" user="hayashi">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="9651932921" lat="35.6777438" lon="139.7648320" version="1" timestamp="2022-04-08T14:27:14Z" changeset="119473725" uid="621319" user="hayashi">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="9651932923" lat="35.6778884" lon="139.7636220" version="2" timestamp="2025-11-11T23:02:23Z" changeset="174534205" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="ref" v="101-11"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="9651932924" lat="35.6780962" lon="139.7632245" version="2" timestamp="2025-11-11T23:02:23Z" changeset="174534205" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="ref" v="101-11"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="9651932925" lat="35.6777756" lon="139.7633560" version="2" timestamp="2025-11-11T23:02:23Z" changeset="174534205" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="ref" v="101-11"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="9651932926" lat="35.6781552" lon="139.7623898" version="1" timestamp="2022-04-08T14:27:14Z" changeset="119473725" uid="621319" user="hayashi">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="9933290475" lat="35.6758390" lon="139.7633796" version="1" timestamp="2022-08-05T08:09:04Z" changeset="124510367" uid="12283190" user="Bramson"/>
+  <node id="9933290476" lat="35.6757632" lon="139.7633575" version="1" timestamp="2022-08-05T08:09:04Z" changeset="124510367" uid="12283190" user="Bramson"/>
+  <node id="9954012147" lat="35.6760303" lon="139.7621786" version="1" timestamp="2022-08-15T06:41:02Z" changeset="124912741" uid="12283190" user="Bramson"/>
+  <node id="9954012151" lat="35.6763489" lon="139.7604208" version="3" timestamp="2026-05-04T14:28:49Z" changeset="182208519" uid="730016" user="Jacob Rosendal Kristensen">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="9954012152" lat="35.6759430" lon="139.7619758" version="1" timestamp="2022-08-15T06:41:02Z" changeset="124912741" uid="12283190" user="Bramson"/>
+  <node id="9954179074" lat="35.6780466" lon="139.7639174" version="1" timestamp="2022-08-15T09:09:03Z" changeset="124917994" uid="12283190" user="Bramson"/>
+  <node id="9954179075" lat="35.6779284" lon="139.7630417" version="1" timestamp="2022-08-15T09:09:03Z" changeset="124917994" uid="12283190" user="Bramson"/>
+  <node id="10113507225" lat="35.6776663" lon="139.7653513" version="2" timestamp="2025-01-24T13:43:43Z" changeset="161713047" uid="12272282" user="近場行き"/>
+  <node id="10113507226" lat="35.6776198" lon="139.7653366" version="2" timestamp="2025-01-24T13:43:43Z" changeset="161713047" uid="12272282" user="近場行き"/>
+  <node id="10113507227" lat="35.6775571" lon="139.7656431" version="1" timestamp="2022-10-19T08:33:21Z" changeset="127766170" uid="12272282" user="近場行き"/>
+  <node id="10113507228" lat="35.6774793" lon="139.7656890" version="1" timestamp="2022-10-19T08:33:21Z" changeset="127766170" uid="12272282" user="近場行き"/>
+  <node id="10113507229" lat="35.6774207" lon="139.7657749" version="1" timestamp="2022-10-19T08:33:21Z" changeset="127766170" uid="12272282" user="近場行き"/>
+  <node id="10113507230" lat="35.6775701" lon="139.7652781" version="1" timestamp="2022-10-19T08:33:21Z" changeset="127766170" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="note" v="原付は小回り右折"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="10183845748" lat="35.6789264" lon="139.7654993" version="2" timestamp="2025-10-24T14:37:34Z" changeset="173721492" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="ref" v="101-50"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="11369914503" lat="35.6758238" lon="139.7635609" version="1" timestamp="2023-11-23T03:29:08Z" changeset="144350009" uid="20164301" user="nmvi_1"/>
+  <node id="11369914504" lat="35.6760275" lon="139.7636496" version="1" timestamp="2023-11-23T03:29:08Z" changeset="144350009" uid="20164301" user="nmvi_1"/>
+  <node id="11369914505" lat="35.6757490" lon="139.7635793" version="1" timestamp="2023-11-23T03:29:08Z" changeset="144350009" uid="20164301" user="nmvi_1"/>
+  <node id="12133504917" lat="35.6757933" lon="139.7633663" version="1" timestamp="2024-08-24T08:46:28Z" changeset="155684247" uid="507417" user="tartiflex"/>
+  <node id="12504167487" lat="35.6758172" lon="139.7628776" version="1" timestamp="2025-01-15T10:48:59Z" changeset="161375645" uid="12272282" user="近場行き"/>
+  <node id="12504167488" lat="35.6757804" lon="139.7628659" version="1" timestamp="2025-01-15T10:48:59Z" changeset="161375645" uid="12272282" user="近場行き"/>
+  <node id="12504167489" lat="35.6757971" lon="139.7628712" version="1" timestamp="2025-01-15T10:48:59Z" changeset="161375645" uid="12272282" user="近場行き"/>
+  <node id="12504167490" lat="35.6757655" lon="139.7630211" version="1" timestamp="2025-01-15T10:48:59Z" changeset="161375645" uid="12272282" user="近場行き"/>
+  <node id="12504167491" lat="35.6774386" lon="139.7637526" version="3" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793"/>
+  <node id="12504167494" lat="35.6757274" lon="139.7631911" version="2" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793"/>
+  <node id="12514496428" lat="35.6756884" lon="139.7631776" version="2" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793"/>
+  <node id="12514496430" lat="35.6756929" lon="139.7633852" version="2" timestamp="2025-10-25T11:20:39Z" changeset="173751607" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="ref" v="101-56"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="12522256517" lat="35.6779448" lon="139.7648940" version="1" timestamp="2025-01-22T06:14:57Z" changeset="161624251" uid="12272282" user="近場行き"/>
+  <node id="12522256520" lat="35.6780598" lon="139.7645757" version="2" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き"/>
+  <node id="12522256521" lat="35.6778048" lon="139.7642375" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="12522256522" lat="35.6778507" lon="139.7644420" version="2" timestamp="2025-02-15T15:30:18Z" changeset="162540138" uid="12272282" user="近場行き"/>
+  <node id="12522256523" lat="35.6778894" lon="139.7642574" version="3" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <tag k="note" v="1号車2番ドア付近"/>
+  </node>
+  <node id="12522256528" lat="35.6778027" lon="139.7644261" version="2" timestamp="2025-02-15T15:30:18Z" changeset="162540138" uid="12272282" user="近場行き"/>
+  <node id="12522256530" lat="35.6775479" lon="139.7652051" version="1" timestamp="2025-01-22T06:14:57Z" changeset="161624251" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="12522256531" lat="35.6776492" lon="139.7652399" version="1" timestamp="2025-01-22T06:14:57Z" changeset="161624251" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="12522256532" lat="35.6775712" lon="139.7652131" version="1" timestamp="2025-01-22T06:14:57Z" changeset="161624251" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="12522256533" lat="35.6776681" lon="139.7652462" version="2" timestamp="2025-01-24T13:43:43Z" changeset="161713047" uid="12272282" user="近場行き">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="12522256534" lat="35.6778633" lon="139.7644918" version="2" timestamp="2025-02-15T15:30:18Z" changeset="162540138" uid="12272282" user="近場行き"/>
+  <node id="12528715719" lat="35.6774180" lon="139.7656215" version="2" timestamp="2025-11-22T13:44:10Z" changeset="174988838" uid="16909100" user="umapjpnic793"/>
+  <node id="12534102217" lat="35.6776613" lon="139.7646807" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102218" lat="35.6774978" lon="139.7646281" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102219" lat="35.6775639" lon="139.7646496" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102220" lat="35.6775864" lon="139.7646568" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102221" lat="35.6777297" lon="139.7643619" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102222" lat="35.6775637" lon="139.7643105" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102223" lat="35.6776520" lon="139.7643379" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102224" lat="35.6773779" lon="139.7642533" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102225" lat="35.6774094" lon="139.7641065" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102226" lat="35.6775665" lon="139.7641583" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12534102227" lat="35.6773568" lon="139.7641244" version="2" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793"/>
+  <node id="12534102228" lat="35.6776321" lon="139.7643317" version="1" timestamp="2025-01-26T15:18:14Z" changeset="161784092" uid="12272282" user="近場行き"/>
+  <node id="12587489766" lat="35.6777274" lon="139.7650227" version="2" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <tag k="highway" v="elevator"/>
+    <tag k="level" v="-2;-3;-4"/>
+    <tag k="note" v="4号車4番ドア付近"/>
+  </node>
+  <node id="12587489767" lat="35.6776460" lon="139.7649976" version="3" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <tag k="highway" v="elevator"/>
+    <tag k="level" v="-2;-3;-4"/>
+  </node>
+  <node id="12587489770" lat="35.6776477" lon="139.7649821" version="3" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="12587489773" lat="35.6777319" lon="139.7650105" version="3" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="12587489774" lat="35.6776532" lon="139.7649733" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="12587489775" lat="35.6777292" lon="139.7649985" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="12587489776" lat="35.6776991" lon="139.7649888" version="2" timestamp="2025-03-26T15:26:34Z" changeset="164127115" uid="12272282" user="近場行き"/>
+  <node id="12587489777" lat="35.6777645" lon="139.7646112" version="3" timestamp="2025-02-19T15:44:33Z" changeset="162706586" uid="12272282" user="近場行き"/>
+  <node id="12590302538" lat="35.6777885" lon="139.7647371" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <tag k="note" v="3号車2番ドア付近"/>
+  </node>
+  <node id="12590302539" lat="35.6777460" lon="139.7649338" version="1" timestamp="2025-02-15T15:30:18Z" changeset="162540138" uid="12272282" user="近場行き"/>
+  <node id="12590302540" lat="35.6776628" lon="139.7649055" version="1" timestamp="2025-02-15T15:30:18Z" changeset="162540138" uid="12272282" user="近場行き"/>
+  <node id="12590302541" lat="35.6777048" lon="139.7647116" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="12590302561" lat="35.6775626" lon="139.7656391" version="1" timestamp="2025-02-15T15:30:18Z" changeset="162540138" uid="12272282" user="近場行き"/>
+  <node id="12590302575" lat="35.6775978" lon="139.7654877" version="2" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12590302576" lat="35.6777122" lon="139.7649223" version="2" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12590302579" lat="35.6775355" lon="139.7658011" version="2" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12590302581" lat="35.6775749" lon="139.7656033" version="2" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12600953081" lat="35.6775663" lon="139.7653691" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="12600953082" lat="35.6776073" lon="139.7651738" version="1" timestamp="2025-02-19T15:44:33Z" changeset="162706586" uid="12272282" user="近場行き"/>
+  <node id="12600953085" lat="35.6776536" lon="139.7653985" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <tag k="note" v="6号車3番ドア付近"/>
+  </node>
+  <node id="12600953086" lat="35.6776931" lon="139.7652043" version="1" timestamp="2025-02-19T15:44:33Z" changeset="162706586" uid="12272282" user="近場行き"/>
+  <node id="12600953088" lat="35.6776580" lon="139.7651915" version="2" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12600953089" lat="35.6778178" lon="139.7643537" version="1" timestamp="2025-02-19T15:44:33Z" changeset="162706586" uid="12272282" user="近場行き"/>
+  <node id="12604226786" lat="35.6776939" lon="139.7650151" version="1" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12604226787" lat="35.6776786" lon="139.7650292" version="1" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12604226788" lat="35.6776506" lon="139.7651618" version="1" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12604226789" lat="35.6776546" lon="139.7651748" version="1" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12604226790" lat="35.6776521" lon="139.7649684" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="12604226791" lat="35.6777330" lon="139.7649948" version="1" timestamp="2025-02-20T16:42:50Z" changeset="162749423" uid="12272282" user="近場行き"/>
+  <node id="12702920629" lat="35.6776949" lon="139.7649826" version="1" timestamp="2025-03-26T15:26:34Z" changeset="164127115" uid="12272282" user="近場行き"/>
+  <node id="13011065060" lat="35.6778912" lon="139.7644863" version="1" timestamp="2025-07-19T02:35:16Z" changeset="169134750" uid="12272282" user="近場行き"/>
+  <node id="13011065061" lat="35.6780588" lon="139.7645432" version="2" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き"/>
+  <node id="13011065063" lat="35.6778950" lon="139.7645224" version="2" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き"/>
+  <node id="13045788086" lat="35.6770999" lon="139.7620289" version="2" timestamp="2025-11-08T12:01:49Z" changeset="174372320" uid="10703212" user="にいとみ">
+    <tag k="direction" v="forward"/>
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="13048433173" lat="35.6746010" lon="139.7622547" version="1" timestamp="2025-08-04T14:58:32Z" changeset="169961398" uid="12272282" user="近場行き">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="有楽町駅前"/>
+    <tag k="name:en" v="Yurakucho Sta."/>
+    <tag k="name:es" v="Yurakucho Sta."/>
+  </node>
+  <node id="13048433181" lat="35.6748073" lon="139.7623890" version="1" timestamp="2025-08-04T14:58:32Z" changeset="169961398" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="有楽町駅前"/>
+    <tag k="name:en" v="Yurakucho Sta."/>
+    <tag k="name:es" v="Yurakucho Sta."/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="backward"/>
+  </node>
+  <node id="13048433182" lat="35.6749082" lon="139.7624204" version="1" timestamp="2025-08-04T14:58:32Z" changeset="169961398" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="有楽町駅前"/>
+    <tag k="name:en" v="Yurakucho Sta."/>
+    <tag k="name:es" v="Yurakucho Sta."/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="13048433183" lat="35.6751551" lon="139.7625025" version="1" timestamp="2025-08-04T14:58:32Z" changeset="169961398" uid="12272282" user="近場行き">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="有楽町駅前"/>
+    <tag k="name:en" v="Yurakucho Sta."/>
+    <tag k="name:es" v="Yurakucho Sta."/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="backward"/>
+  </node>
+  <node id="13243336057" lat="35.6777938" lon="139.7637879" version="2" timestamp="2025-11-15T13:18:28Z" changeset="174686722" uid="16909100" user="umapjpnic793">
+    <tag k="name" v="東京駅"/>
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="13243336058" lat="35.6777651" lon="139.7639266" version="1" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793"/>
+  <node id="13243336059" lat="35.6777254" lon="139.7641184" version="1" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793"/>
+  <node id="13243336060" lat="35.6777723" lon="139.7637530" version="1" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793"/>
+  <node id="13243336061" lat="35.6777075" lon="139.7641130" version="1" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793"/>
+  <node id="13243336062" lat="35.6777479" lon="139.7639209" version="1" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793"/>
+  <node id="13243336063" lat="35.6777794" lon="139.7638572" version="1" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793"/>
+  <node id="13243336064" lat="35.6777509" lon="139.7639951" version="1" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793"/>
+  <node id="13243336065" lat="35.6777384" lon="139.7640555" version="1" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793"/>
+  <node id="13277491724" lat="35.6757842" lon="139.7642221" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491725" lat="35.6753672" lon="139.7637618" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491726" lat="35.6750759" lon="139.7634048" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491727" lat="35.6748321" lon="139.7630703" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491728" lat="35.6744540" lon="139.7625209" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491729" lat="35.6757988" lon="139.7642019" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491730" lat="35.6752802" lon="139.7635478" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491731" lat="35.6746814" lon="139.7627716" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491732" lat="35.6744777" lon="139.7624962" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491733" lat="35.6746510" lon="139.7628065" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491744" lat="35.6752371" lon="139.7636024" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491745" lat="35.6749946" lon="139.7631776" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13277491746" lat="35.6749498" lon="139.7632317" version="1" timestamp="2025-11-03T11:47:23Z" changeset="174143620" uid="12272282" user="近場行き"/>
+  <node id="13306331827" lat="35.6773664" lon="139.7656112" version="1" timestamp="2025-11-15T13:18:28Z" changeset="174686722" uid="16909100" user="umapjpnic793"/>
+  <node id="13306331829" lat="35.6779731" lon="139.7636397" version="1" timestamp="2025-11-15T13:18:28Z" changeset="174686722" uid="16909100" user="umapjpnic793"/>
+  <node id="13306331830" lat="35.6779006" lon="139.7639832" version="1" timestamp="2025-11-15T13:18:28Z" changeset="174686722" uid="16909100" user="umapjpnic793"/>
+  <node id="13306331832" lat="35.6779810" lon="139.7623432" version="1" timestamp="2025-11-15T13:18:28Z" changeset="174686722" uid="16909100" user="umapjpnic793"/>
+  <node id="13306418590" lat="35.6757884" lon="139.7632119" version="1" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793"/>
+  <node id="13306418591" lat="35.6773094" lon="139.7643415" version="1" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793"/>
+  <node id="13306418594" lat="35.6760896" lon="139.7617014" version="1" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793"/>
+  <node id="13324084417" lat="35.6777856" lon="139.7652353" version="1" timestamp="2025-11-22T13:44:10Z" changeset="174988838" uid="16909100" user="umapjpnic793"/>
+  <node id="13324084418" lat="35.6777286" lon="139.7651299" version="1" timestamp="2025-11-22T13:44:10Z" changeset="174988838" uid="16909100" user="umapjpnic793"/>
+  <node id="13324084419" lat="35.6778225" lon="139.7652480" version="1" timestamp="2025-11-22T13:44:10Z" changeset="174988838" uid="16909100" user="umapjpnic793"/>
+  <node id="13426030294" lat="35.6769640" lon="139.7657010" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426030297" lat="35.6764634" lon="139.7650264" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426030298" lat="35.6765274" lon="139.7648826" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426066401" lat="35.6759726" lon="139.7646140" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426066402" lat="35.6767014" lon="139.7652035" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426066407" lat="35.6761882" lon="139.7648011" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426066410" lat="35.6764898" lon="139.7650443" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426066412" lat="35.6758231" lon="139.7644617" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426066416" lat="35.6755680" lon="139.7641989" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426066424" lat="35.6772666" lon="139.7655559" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426066434" lat="35.6766619" lon="139.7651789" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13426066435" lat="35.6763528" lon="139.7649513" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1"/>
+  <node id="13617760553" lat="35.6779114" lon="139.7641849" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760554" lat="35.6778975" lon="139.7642524" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760555" lat="35.6777949" lon="139.7647334" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760556" lat="35.6777357" lon="139.7650116" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760557" lat="35.6776586" lon="139.7654079" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760558" lat="35.6775767" lon="139.7657963" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760559" lat="35.6775316" lon="139.7660086" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760560" lat="35.6774753" lon="139.7662804" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760561" lat="35.6774644" lon="139.7663333" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760562" lat="35.6774552" lon="139.7663296" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760563" lat="35.6774660" lon="139.7662775" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760564" lat="35.6775212" lon="139.7660049" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760565" lat="35.6775638" lon="139.7657927" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760566" lat="35.6776458" lon="139.7654030" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760567" lat="35.6777246" lon="139.7650079" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760568" lat="35.6777841" lon="139.7647297" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760569" lat="35.6778855" lon="139.7642483" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760570" lat="35.6778996" lon="139.7641812" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760572" lat="35.6778270" lon="139.7641631" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760573" lat="35.6778113" lon="139.7642334" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760574" lat="35.6777124" lon="139.7647069" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760575" lat="35.6776558" lon="139.7649846" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760576" lat="35.6775723" lon="139.7653763" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760577" lat="35.6774916" lon="139.7657695" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760578" lat="35.6774497" lon="139.7659728" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760579" lat="35.6773894" lon="139.7662563" version="2" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き"/>
+  <node id="13617760580" lat="35.6773797" lon="139.7663010" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760581" lat="35.6773630" lon="139.7662947" version="2" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き"/>
+  <node id="13617760582" lat="35.6773728" lon="139.7662508" version="2" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き"/>
+  <node id="13617760583" lat="35.6774331" lon="139.7659676" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760584" lat="35.6774750" lon="139.7657631" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760585" lat="35.6775586" lon="139.7653715" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760586" lat="35.6776409" lon="139.7649796" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760587" lat="35.6777003" lon="139.7647027" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760588" lat="35.6778007" lon="139.7642305" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13617760589" lat="35.6778157" lon="139.7641595" version="1" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き"/>
+  <node id="13688397782" lat="35.6751193" lon="139.7623308" version="1" timestamp="2026-03-29T12:07:42Z" changeset="180579835" uid="12272282" user="近場行き"/>
+  <node id="13942805997" lat="35.6778933" lon="139.7641376" version="1" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き"/>
+  <node id="13942805999" lat="35.6779477" lon="139.7646699" version="1" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <tag k="highway" v="elevator"/>
+  </node>
+  <node id="13942806000" lat="35.6779602" lon="139.7646344" version="1" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き"/>
+  <node id="13942931001" lat="35.6778954" lon="139.7646166" version="1" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き"/>
+  <node id="13942931002" lat="35.6779515" lon="139.7646274" version="1" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き"/>
+  <node id="13942931003" lat="35.6778409" lon="139.7645977" version="1" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き"/>
+  <node id="13942931004" lat="35.6780564" lon="139.7645589" version="1" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き"/>
+  <way id="39520757" version="37" timestamp="2025-12-21T14:12:15Z" changeset="176219606" uid="507417" user="tartiflex">
+    <nd ref="1588249027"/>
+    <nd ref="9954012151"/>
+    <nd ref="5737951045"/>
+    <nd ref="1588249020"/>
+    <nd ref="5737951047"/>
+    <nd ref="2253618257"/>
+    <nd ref="715826087"/>
+    <nd ref="2253618255"/>
+    <nd ref="12514496430"/>
+    <nd ref="5110316643"/>
+    <nd ref="1417714469"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="丸の内 5th"/>
+    <tag k="name:en" v="Marunouchi 5th Street"/>
+    <tag k="name:fr" v="Marunouchi 5"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="144508549" version="11" timestamp="2025-10-25T11:20:39Z" changeset="173751607" uid="12272282" user="近場行き">
+    <nd ref="1417714469"/>
+    <nd ref="5110316647"/>
+    <nd ref="1580648029"/>
+    <nd ref="1580648036"/>
+    <nd ref="1580648039"/>
+    <nd ref="1580648045"/>
+    <nd ref="1580648047"/>
+    <nd ref="1580648053"/>
+    <nd ref="1580648057"/>
+    <nd ref="1580648064"/>
+    <nd ref="4114764645"/>
+    <nd ref="1580648069"/>
+    <nd ref="6205397317"/>
+    <nd ref="4114764646"/>
+    <tag k="fixme" v="Only for bicycle?"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing, 2007-03"/>
+  </way>
+  <way id="145405916" version="11" timestamp="2025-12-21T14:12:15Z" changeset="176219606" uid="507417" user="tartiflex">
+    <nd ref="473468152"/>
+    <nd ref="2253618286"/>
+    <nd ref="5509911911"/>
+    <nd ref="13045788086"/>
+    <tag k="cycleway:left" v="shared_lane"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="丸の内 4th"/>
+    <tag k="name:en" v="Marunouchi 4th Street"/>
+    <tag k="name:fr" v="Marunouchi 4"/>
+    <tag k="source" v="Bing,2007-04"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="178989940" version="25" timestamp="2025-12-21T14:12:15Z" changeset="176219606" uid="507417" user="tartiflex">
+    <nd ref="257547611"/>
+    <nd ref="6244220909"/>
+    <nd ref="9651932926"/>
+    <nd ref="6244220899"/>
+    <nd ref="473468675"/>
+    <nd ref="6205397298"/>
+    <nd ref="6483530169"/>
+    <nd ref="2262158633"/>
+    <nd ref="257547610"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="馬場先通り"/>
+    <tag k="name:en" v="Babasaki Street"/>
+    <tag k="name:es" v="Avenida Babasaki-dori"/>
+    <tag k="name:fr" v="Rue Babasaki"/>
+    <tag k="name:ja-Hira" v="ばばさきどおり"/>
+    <tag k="name:ja-Latn" v="Babasaki-dōri"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="406"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="254711096" version="24" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="257547230"/>
+    <nd ref="6205397308"/>
+    <nd ref="13942805997"/>
+    <nd ref="9651932921"/>
+    <nd ref="4736332672"/>
+    <nd ref="1588249044"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="鍛冶橋通り"/>
+    <tag k="name:en" v="Babasaki Street"/>
+    <tag k="name:es" v="Avenida Babasaki-dori"/>
+    <tag k="name:fr" v="Rue Babasaki"/>
+    <tag k="name:ja-Hira" v="ばばさきどおり"/>
+    <tag k="name:ja-Latn" v="Babasaki-dōri"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="406"/>
+    <tag k="source" v="Bing,2007-04"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="254711102" version="12" timestamp="2026-03-22T08:53:55Z" changeset="180238770" uid="2450583" user="ichbins2">
+    <nd ref="257547611"/>
+    <nd ref="257547230"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="6"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="5"/>
+    <tag k="name" v="大名小路"/>
+    <tag k="name:en" v="Daimyō Kōji"/>
+    <tag k="name:es" v="Daimyō Kōji"/>
+    <tag k="name:fr" v="Daimyō Kōji"/>
+    <tag k="name:ja-Hira" v="だいみょうこうじ"/>
+    <tag k="name:ja-Latn" v="Daimyō Kōji"/>
+    <tag k="ref" v="402"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="257233105" version="25" timestamp="2025-11-05T11:47:44Z" changeset="174237379" uid="12272282" user="近場行き">
+    <nd ref="2131742741"/>
+    <nd ref="5110352923"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="cycleway:lane" v="pictogram"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="大名小路"/>
+    <tag k="name:en" v="Daimyo-koji Avenue"/>
+    <tag k="name:es" v="Avenida Daimyo-koji"/>
+    <tag k="ref" v="402"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="363564527" version="10" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="3677320543"/>
+    <nd ref="9389820661"/>
+    <nd ref="3677323962"/>
+    <nd ref="6205397311"/>
+    <nd ref="3677323961"/>
+    <nd ref="13942931001"/>
+    <nd ref="6244220907"/>
+    <nd ref="9954179074"/>
+    <nd ref="6244220902"/>
+    <nd ref="6205397309"/>
+    <nd ref="3677324177"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="387312965" version="20" timestamp="2025-12-21T14:12:15Z" changeset="176219606" uid="507417" user="tartiflex">
+    <nd ref="4114764646"/>
+    <nd ref="4736332671"/>
+    <nd ref="12534102217"/>
+    <nd ref="12534102221"/>
+    <nd ref="9651932923"/>
+    <nd ref="6205397307"/>
+    <nd ref="257547611"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="鍛冶橋通り"/>
+    <tag k="name:en" v="Babasaki Street"/>
+    <tag k="name:es" v="Avenida Babasaki-dori"/>
+    <tag k="name:fr" v="Rue Babasaki"/>
+    <tag k="name:ja-Hira" v="ばばさきどおり"/>
+    <tag k="name:ja-Latn" v="Babasaki-dōri"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="406"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="387627963" version="16" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="4114764646"/>
+    <nd ref="4114764644"/>
+    <nd ref="1588249044"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="丸の内室町線"/>
+    <tag k="name:en" v="Marunouchi-Muromachi Line"/>
+    <tag k="name:es" v="Ruta Marunouchi-Muromachi"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="407"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="445408177" version="5" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1">
+    <nd ref="1588257511"/>
+    <nd ref="5097423520"/>
+    <nd ref="4428409505"/>
+    <nd ref="13426030294"/>
+    <nd ref="4428409506"/>
+    <nd ref="4428409507"/>
+    <nd ref="4428409508"/>
+    <nd ref="4428409509"/>
+    <nd ref="4428409511"/>
+    <nd ref="4428409510"/>
+    <nd ref="4428409512"/>
+    <nd ref="4428409513"/>
+    <nd ref="4428409514"/>
+    <nd ref="4428409515"/>
+    <nd ref="4428409516"/>
+    <nd ref="4428409517"/>
+    <nd ref="4428409518"/>
+    <nd ref="5097423502"/>
+    <nd ref="2133066667"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="alley"/>
+  </way>
+  <way id="480660246" version="6" timestamp="2025-08-02T10:49:18Z" changeset="169855211" uid="10675085" user="2tefan">
+    <nd ref="1580648073"/>
+    <nd ref="12534102219"/>
+    <nd ref="12534102228"/>
+    <nd ref="1580648076"/>
+    <nd ref="1580648075"/>
+    <nd ref="1580648074"/>
+    <nd ref="1580648059"/>
+    <nd ref="1580648061"/>
+    <nd ref="1580648060"/>
+    <nd ref="1580648058"/>
+    <nd ref="1580648050"/>
+    <nd ref="1580648051"/>
+    <nd ref="1580648048"/>
+    <nd ref="1580648046"/>
+    <nd ref="1580648041"/>
+    <nd ref="1580648042"/>
+    <nd ref="1580648040"/>
+    <nd ref="1580648037"/>
+    <nd ref="1580648032"/>
+    <nd ref="1580648033"/>
+    <nd ref="1580648028"/>
+    <nd ref="12133504917"/>
+    <nd ref="11369914505"/>
+    <nd ref="1580648027"/>
+    <nd ref="1580648031"/>
+    <nd ref="4736332674"/>
+    <nd ref="1580648043"/>
+    <nd ref="1580648052"/>
+    <nd ref="1580648055"/>
+    <nd ref="1580648062"/>
+    <nd ref="1580648065"/>
+    <nd ref="1580648067"/>
+    <nd ref="1580648068"/>
+    <nd ref="1580648073"/>
+    <tag k="area" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="noname" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="517127276" version="8" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="10113507229"/>
+    <nd ref="9651932919"/>
+    <nd ref="12522256530"/>
+    <nd ref="4114764646"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxheight" v="3.8"/>
+    <tag k="name" v="鍛冶橋通り"/>
+    <tag k="name:en" v="Kajibashi-dori Avenue"/>
+    <tag k="name:es" v="Calle Kajibashi"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="406"/>
+  </way>
+  <way id="525273227" version="14" timestamp="2025-12-28T14:11:41Z" changeset="176530560" uid="16909100" user="umapjpnic793">
+    <nd ref="5110316656"/>
+    <nd ref="6205397306"/>
+    <nd ref="13243336060"/>
+    <nd ref="12534102223"/>
+    <nd ref="12534102220"/>
+    <nd ref="6205397310"/>
+    <nd ref="5110316657"/>
+    <nd ref="5110316658"/>
+    <nd ref="6205397318"/>
+    <nd ref="6205397319"/>
+    <nd ref="6205397320"/>
+    <nd ref="6205397321"/>
+    <nd ref="6205397322"/>
+    <nd ref="6205397323"/>
+    <nd ref="5110316649"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="525276110" version="8" timestamp="2026-03-29T12:07:42Z" changeset="180579835" uid="12272282" user="近場行き">
+    <nd ref="5110342826"/>
+    <nd ref="5110352932"/>
+    <nd ref="5110342873"/>
+    <nd ref="5110342828"/>
+    <nd ref="5110342829"/>
+    <nd ref="9954012152"/>
+    <nd ref="5596727620"/>
+    <nd ref="5110342830"/>
+    <nd ref="5110342831"/>
+    <nd ref="5596728221"/>
+    <nd ref="5110342832"/>
+    <nd ref="13688397782"/>
+    <nd ref="5110342826"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="GSI/KIBAN 2500;NARO"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="573803131" version="3" timestamp="2019-02-17T17:02:19Z" changeset="67285772" uid="309382" user="Diego Sanguinetti">
+    <nd ref="5509911911"/>
+    <nd ref="5596728254"/>
+    <nd ref="5509911910"/>
+    <nd ref="5737951049"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="585714909" version="3" timestamp="2025-08-04T09:37:21Z" changeset="169941824" uid="10675085" user="2tefan">
+    <nd ref="5110316650"/>
+    <nd ref="2253618255"/>
+    <nd ref="5110316636"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="585714910" version="3" timestamp="2025-08-04T09:36:44Z" changeset="169941824" uid="10675085" user="2tefan">
+    <nd ref="5596728259"/>
+    <nd ref="2253618259"/>
+    <nd ref="5596727611"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="585714911" version="3" timestamp="2025-08-04T09:36:54Z" changeset="169941824" uid="10675085" user="2tefan">
+    <nd ref="5110342829"/>
+    <nd ref="2253618257"/>
+    <nd ref="5596727612"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="585714925" version="4" timestamp="2025-08-03T13:30:56Z" changeset="169902689" uid="10675085" user="2tefan">
+    <nd ref="5596728249"/>
+    <nd ref="5596728248"/>
+    <nd ref="5596728247"/>
+    <nd ref="5596728246"/>
+    <nd ref="5596728245"/>
+    <nd ref="5596728244"/>
+    <nd ref="5596728243"/>
+    <nd ref="9954179075"/>
+    <nd ref="6244220908"/>
+    <nd ref="5596728242"/>
+    <nd ref="5596728241"/>
+    <nd ref="5596728240"/>
+    <nd ref="5596728239"/>
+    <nd ref="5596728238"/>
+    <nd ref="5596728237"/>
+    <nd ref="5596728227"/>
+    <nd ref="5596728249"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="GSI/KIBAN 2500;NARO"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="585714926" version="5" timestamp="2025-08-02T10:31:49Z" changeset="169855211" uid="10675085" user="2tefan">
+    <nd ref="5596728255"/>
+    <nd ref="5596728250"/>
+    <nd ref="5596728251"/>
+    <nd ref="5596728252"/>
+    <nd ref="5596728226"/>
+    <nd ref="5596728253"/>
+    <nd ref="5596728262"/>
+    <nd ref="5596728254"/>
+    <nd ref="6284627838"/>
+    <nd ref="5596728261"/>
+    <nd ref="5596728260"/>
+    <nd ref="5737951049"/>
+    <nd ref="5596728259"/>
+    <nd ref="5596728258"/>
+    <nd ref="5596728257"/>
+    <nd ref="5596727612"/>
+    <nd ref="9954012147"/>
+    <nd ref="5596727619"/>
+    <nd ref="5596728256"/>
+    <nd ref="5596728255"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="GSI/KIBAN 2500;NARO"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="661599594" version="5" timestamp="2026-09-14T16:23:39Z" changeset="189020282" uid="12272282" user="近場行き">
+    <nd ref="6193663529"/>
+    <nd ref="6193663530"/>
+    <nd ref="12504167487"/>
+    <nd ref="6193663531"/>
+    <nd ref="6193663532"/>
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="level" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京メトロ有楽町線 有楽町駅"/>
+    <tag k="name:en" v="Yurakucho"/>
+    <tag k="name:es" v="Yurakucho"/>
+    <tag k="network" v="東京メトロ有楽町線"/>
+    <tag k="operator" v="東京地下鉄"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="1"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="661599596" version="6" timestamp="2026-09-14T16:23:39Z" changeset="189020282" uid="12272282" user="近場行き">
+    <nd ref="6193663529"/>
+    <nd ref="6193663533"/>
+    <nd ref="12504167488"/>
+    <nd ref="6193663534"/>
+    <nd ref="6284578303"/>
+    <nd ref="6193663532"/>
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="level" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京メトロ有楽町線 有楽町駅"/>
+    <tag k="name:en" v="Yurakucho"/>
+    <tag k="name:es" v="Yurakucho"/>
+    <tag k="network" v="東京メトロ有楽町線"/>
+    <tag k="operator" v="東京地下鉄"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="2"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="662875891" version="6" timestamp="2025-12-28T14:11:41Z" changeset="176530560" uid="16909100" user="umapjpnic793">
+    <nd ref="6205397306"/>
+    <nd ref="6205397307"/>
+    <nd ref="6205397308"/>
+    <nd ref="6205397309"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="note" v="音響装置の音は自動で「ピヨピヨ」と鳴る。"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="walk"/>
+  </way>
+  <way id="662875893" version="6" timestamp="2025-12-13T03:54:39Z" changeset="175870143" uid="20164491" user="nmvi_3">
+    <nd ref="6205397310"/>
+    <nd ref="4736332671"/>
+    <nd ref="4736332672"/>
+    <nd ref="6205397311"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="note" v="音響装置の音は自動で「ピヨピヨ」と鳴る。"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_signals:sound" v="walk"/>
+  </way>
+  <way id="662875895" version="7" timestamp="2025-11-10T00:34:58Z" changeset="174439818" uid="2387146" user="k44">
+    <nd ref="6205397311"/>
+    <nd ref="3925226870"/>
+    <nd ref="6205397312"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="662875900" version="4" timestamp="2025-12-13T03:54:39Z" changeset="175870143" uid="20164491" user="nmvi_3">
+    <nd ref="5097423514"/>
+    <nd ref="6205397317"/>
+    <nd ref="6205397318"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="note" v="音響装置の音は自動で「カッコウ」と鳴る。"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_signals:sound" v="walk"/>
+  </way>
+  <way id="666902547" version="4" timestamp="2025-12-28T14:11:41Z" changeset="176530560" uid="16909100" user="umapjpnic793">
+    <nd ref="6244220908"/>
+    <nd ref="6244220909"/>
+    <nd ref="6244220910"/>
+    <nd ref="6244220911"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="note" v="音響装置の音は自動で「ピヨピヨ」と鳴る。"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_signals:sound" v="walk"/>
+  </way>
+  <way id="666902549" version="5" timestamp="2025-12-28T14:11:41Z" changeset="176530560" uid="16909100" user="umapjpnic793">
+    <nd ref="5596728241"/>
+    <nd ref="6244220912"/>
+    <nd ref="5110316655"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="note" v="音響装置の音は自動で「カッコウ」と鳴る。"/>
+    <tag k="traffic_signals:sound" v="walk"/>
+  </way>
+  <way id="671106977" version="4" timestamp="2025-01-03T05:17:14Z" changeset="160934660" uid="12272282" user="近場行き">
+    <nd ref="6284573848"/>
+    <nd ref="6284558562"/>
+    <nd ref="6284558558"/>
+    <nd ref="6284558560"/>
+    <nd ref="6284558555"/>
+    <nd ref="6284578297"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="有楽町"/>
+    <tag k="name:en" v="Yurakucho"/>
+    <tag k="name:es" v="Yurakucho"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="671106978" version="3" timestamp="2025-01-19T14:56:29Z" changeset="161527750" uid="12272282" user="近場行き">
+    <nd ref="6284558555"/>
+    <nd ref="6284558556"/>
+    <nd ref="12514496428"/>
+    <nd ref="6284558559"/>
+    <nd ref="6284558557"/>
+    <nd ref="6284578522"/>
+    <nd ref="6284558558"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="有楽町"/>
+    <tag k="name:en" v="Yurakucho"/>
+    <tag k="name:es" v="Yurakucho"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="671106981" version="1" timestamp="2019-02-17T16:17:22Z" changeset="67284452" uid="309382" user="Diego Sanguinetti">
+    <nd ref="2569142489"/>
+    <nd ref="6284558560"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="有楽町"/>
+    <tag k="name:en" v="Yurakucho"/>
+    <tag k="name:es" v="Yurakucho"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="671109734" version="5" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793">
+    <nd ref="6284578296"/>
+    <nd ref="6284578300"/>
+    <nd ref="6284613202"/>
+    <nd ref="13306418594"/>
+    <nd ref="6284578302"/>
+    <nd ref="6284578295"/>
+    <nd ref="6284558554"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="24/7"/>
+    <tag k="name" v="有楽町"/>
+    <tag k="name:en" v="Yurakucho"/>
+    <tag k="name:es" v="Yurakucho"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="671109735" version="1" timestamp="2019-02-17T16:36:48Z" changeset="67285070" uid="309382" user="Diego Sanguinetti">
+    <nd ref="6284578297"/>
+    <nd ref="6284578296"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="有楽町"/>
+    <tag k="name:en" v="Yurakucho"/>
+    <tag k="name:es" v="Yurakucho"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="671113030" version="3" timestamp="2025-08-04T09:35:21Z" changeset="169941824" uid="10675085" user="2tefan">
+    <nd ref="5596728238"/>
+    <nd ref="2253618286"/>
+    <nd ref="6284627838"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="671113032" version="3" timestamp="2025-08-02T10:33:00Z" changeset="169855211" uid="10675085" user="2tefan">
+    <nd ref="5596728240"/>
+    <nd ref="2253618291"/>
+    <nd ref="6284627839"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="671113035" version="3" timestamp="2025-08-02T10:33:03Z" changeset="169855211" uid="10675085" user="2tefan">
+    <nd ref="5596728260"/>
+    <nd ref="2253618281"/>
+    <nd ref="6284627840"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="682973092" version="5" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="2569142488"/>
+    <nd ref="6397075556"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="down"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="step_count" v="34"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="682973093" version="3" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="6397075553"/>
+    <nd ref="6397075554"/>
+    <nd ref="6396893125"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="1083959376" version="2" timestamp="2024-08-24T08:46:28Z" changeset="155684247" uid="507417" user="tartiflex">
+    <nd ref="2569142489"/>
+    <nd ref="9933290475"/>
+    <nd ref="12133504917"/>
+    <nd ref="9933290476"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1086373678" version="1" timestamp="2022-08-15T09:09:03Z" changeset="124917994" uid="12283190" user="Bramson">
+    <nd ref="6397075543"/>
+    <nd ref="9954179075"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1088054948" version="3" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="13324084419"/>
+    <nd ref="13324084417"/>
+    <nd ref="13324084418"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅;地下2階"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="1105155920" version="3" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="1588249044"/>
+    <nd ref="1588257516"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxheight" v="3.8"/>
+    <tag k="name" v="鍛冶橋通り"/>
+    <tag k="name:en" v="Kajibashi-dori"/>
+    <tag k="name:es" v="Calle Kajibashi"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="406"/>
+    <tag k="source" v="Bing,2007-04"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1105155921" version="8" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="1588249044"/>
+    <nd ref="6205397312"/>
+    <nd ref="9389820662"/>
+    <nd ref="10183845748"/>
+    <nd ref="1609788031"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="丸の内室町線"/>
+    <tag k="name:en" v="Marunouchi-Muromachi Line"/>
+    <tag k="name:es" v="Ruta Marunouchi-Muromachi"/>
+    <tag k="name:fr" v="Route Marunouchi-Muromachi"/>
+    <tag k="name:ja" v="丸の内室町線"/>
+    <tag k="name:ja-Hira" v="まるのうちむろまちせん"/>
+    <tag k="name:ja-Latn" v="Marunouchi Muromachi sen"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="407"/>
+    <tag k="sidewalk:left" v="separate"/>
+    <tag k="sidewalk:right" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1105155922" version="3" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="1588257516"/>
+    <nd ref="2694556937"/>
+    <nd ref="4114764646"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="丸の内室町線"/>
+    <tag k="name:en" v="Marunouchi-Muromachi Line"/>
+    <tag k="name:es" v="Ruta Marunouchi-Muromachi"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="407"/>
+  </way>
+  <way id="1105155924" version="4" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="1588257516"/>
+    <nd ref="12522256531"/>
+    <nd ref="10113507226"/>
+    <nd ref="10113507227"/>
+    <nd ref="2694545763"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxheight" v="3.8"/>
+    <tag k="name" v="鍛冶橋通り"/>
+    <tag k="name:en" v="Kajibashi-dori Avenue"/>
+    <tag k="name:es" v="Calle Kajibashi"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="406"/>
+    <tag k="source" v="Bing,2007-04"/>
+  </way>
+  <way id="1105155925" version="5" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="10113507228"/>
+    <nd ref="10113507230"/>
+    <nd ref="12522256532"/>
+    <nd ref="4114764646"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxheight" v="3.8"/>
+    <tag k="name" v="鍛冶橋通り"/>
+    <tag k="name:en" v="Kajibashi-dori Avenue"/>
+    <tag k="name:es" v="Calle Kajibashi"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="406"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1105155926" version="4" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="1588257516"/>
+    <nd ref="12522256533"/>
+    <nd ref="10113507225"/>
+    <nd ref="1588249035"/>
+    <nd ref="2694545763"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxheight" v="3.8"/>
+    <tag k="name" v="鍛冶橋通り"/>
+    <tag k="name:en" v="Kajibashi-dori Avenue"/>
+    <tag k="name:es" v="Calle Kajibashi"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="406"/>
+    <tag k="source" v="Bing,2007-04"/>
+  </way>
+  <way id="1105155929" version="9" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="3677320542"/>
+    <nd ref="9651932920"/>
+    <nd ref="6205397313"/>
+    <nd ref="1588257516"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="丸の内室町線"/>
+    <tag k="name:en" v="Marunouchi-Muromachi Line"/>
+    <tag k="name:es" v="Ruta Marunouchi-Muromachi"/>
+    <tag k="name:fr" v="Route Marunouchi-Muromachi"/>
+    <tag k="name:ja" v="丸の内室町線"/>
+    <tag k="name:ja-Hira" v="まるのうちむろまちせん"/>
+    <tag k="name:ja-Latn" v="Marunouchi Muromachi sen"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="407"/>
+    <tag k="sidewalk:left" v="separate"/>
+    <tag k="sidewalk:right" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1105290310" version="7" timestamp="2025-12-21T14:12:15Z" changeset="176219606" uid="507417" user="tartiflex">
+    <nd ref="1588249047"/>
+    <nd ref="7022642544"/>
+    <nd ref="9651932924"/>
+    <nd ref="6244220910"/>
+    <nd ref="257547230"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="馬場先通り"/>
+    <tag k="name:en" v="Babasaki Street"/>
+    <tag k="name:es" v="Avenida Babasaki-dori"/>
+    <tag k="name:fr" v="Rue Babasaki"/>
+    <tag k="name:ja-Hira" v="ばばさきどおり"/>
+    <tag k="name:ja-Latn" v="Babasaki-dōri"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="406"/>
+    <tag k="source" v="Bing,2007-04"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1113105793" version="3" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="6205397313"/>
+    <nd ref="3925263854"/>
+    <nd ref="6205397314"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1113105794" version="5" timestamp="2025-12-13T03:54:39Z" changeset="175870143" uid="20164491" user="nmvi_3">
+    <nd ref="6205397312"/>
+    <nd ref="6205397313"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="note" v="音響装置の音は自動で「カッコウ」と鳴る。"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_signals:sound" v="walk"/>
+  </way>
+  <way id="1226057481" version="3" timestamp="2025-10-25T11:20:39Z" changeset="173751607" uid="12272282" user="近場行き">
+    <nd ref="5097423504"/>
+    <nd ref="5097423506"/>
+    <nd ref="5097423507"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="GSI/KIBAN 2500;NARO"/>
+  </way>
+  <way id="1226057483" version="4" timestamp="2025-12-13T03:14:21Z" changeset="175869595" uid="20164491" user="nmvi_3">
+    <nd ref="5110316650"/>
+    <nd ref="5110316651"/>
+    <nd ref="5110316652"/>
+    <nd ref="5596727611"/>
+    <nd ref="6284627840"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </way>
+  <way id="1226059427" version="1" timestamp="2023-11-23T03:29:08Z" changeset="144350009" uid="20164301" user="nmvi_1">
+    <nd ref="5110316645"/>
+    <nd ref="11369914505"/>
+    <nd ref="11369914503"/>
+    <nd ref="11369914504"/>
+    <nd ref="4736332674"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tactile_paving" v="yes"/>
+  </way>
+  <way id="1226059430" version="1" timestamp="2023-11-23T03:29:08Z" changeset="144350009" uid="20164301" user="nmvi_1">
+    <nd ref="5110316649"/>
+    <nd ref="5110316645"/>
+    <nd ref="9933290476"/>
+    <nd ref="5110316650"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </way>
+  <way id="1351538592" version="2" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793">
+    <nd ref="12504167487"/>
+    <nd ref="12504167489"/>
+    <nd ref="12504167488"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="1351538593" version="2" timestamp="2025-11-15T14:58:22Z" changeset="174690616" uid="16909100" user="umapjpnic793">
+    <nd ref="12504167489"/>
+    <nd ref="12504167490"/>
+    <tag k="highway" v="steps"/>
+    <tag k="layer" v="-2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="1351538594" version="7" timestamp="2026-09-14T16:23:39Z" changeset="189020282" uid="12272282" user="近場行き">
+    <nd ref="13306418591"/>
+    <nd ref="12534102227"/>
+    <nd ref="12504167491"/>
+    <nd ref="13306418590"/>
+    <nd ref="12504167494"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1353305906" version="4" timestamp="2026-02-14T09:15:46Z" changeset="178535159" uid="3418742" user="corrector_91">
+    <nd ref="6205397311"/>
+    <nd ref="12522256517"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京ビルディング"/>
+    <tag k="name:en" v="Tokyo Building (TOKIA)"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1353305909" version="5" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="6397075531"/>
+    <nd ref="12522256521"/>
+    <tag k="highway" v="steps"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1353305910" version="5" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12522256522"/>
+    <nd ref="12522256523"/>
+    <tag k="highway" v="steps"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1353305911" version="5" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13617760554"/>
+    <nd ref="12522256523"/>
+    <nd ref="13617760569"/>
+    <tag k="destination" v="普通列車1号車2番ドア"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1353305912" version="6" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="13617760573"/>
+    <nd ref="12522256521"/>
+    <nd ref="13617760588"/>
+    <tag k="destination" v="普通列車1号車2番ドア"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1353305913" version="6" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12522256522"/>
+    <nd ref="12522256528"/>
+    <nd ref="6397075531"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1353305914" version="5" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12522256528"/>
+    <nd ref="12587489777"/>
+    <nd ref="6397075545"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+  </way>
+  <way id="1353305916" version="3" timestamp="2025-12-13T03:54:39Z" changeset="175870143" uid="20164491" user="nmvi_3">
+    <nd ref="5097423516"/>
+    <nd ref="12522256530"/>
+    <nd ref="12522256532"/>
+    <nd ref="12522256531"/>
+    <nd ref="12522256533"/>
+    <nd ref="6205397314"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="note" v="音響装置の音は自動で「ピヨピヨ」と鳴る。"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="walk"/>
+  </way>
+  <way id="1353305917" version="5" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="12522256520"/>
+    <nd ref="13942931004"/>
+    <nd ref="12522256534"/>
+    <tag k="conveying" v="forward"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="down"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="東京ビルディング"/>
+    <tag k="name:en" v="Tokyo Building (TOKIA)"/>
+  </way>
+  <way id="1353875979" version="8" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="12522256534"/>
+    <nd ref="6397238093"/>
+    <nd ref="6397075552"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅(改札外);地下2階"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1353876701" version="9" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="6397075546"/>
+    <nd ref="6397075545"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-3"/>
+    <tag k="name" v="JR東京駅;京葉地下丸の内口;地下2階"/>
+    <tag k="name:en" v="Tokyo Station Keiyo Underground Marunouchi Exit B2"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1353876702" version="7" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="6397075552"/>
+    <nd ref="6397075546"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅(改札外);京葉地下丸の内口"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1354417710" version="2" timestamp="2025-08-02T10:50:35Z" changeset="169855211" uid="10675085" user="2tefan">
+    <nd ref="12534102217"/>
+    <nd ref="12534102220"/>
+    <nd ref="12534102219"/>
+    <nd ref="12534102218"/>
+    <tag k="highway" v="service"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1354417711" version="3" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12534102221"/>
+    <nd ref="12534102223"/>
+    <nd ref="12534102228"/>
+    <nd ref="12534102222"/>
+    <tag k="highway" v="service"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1354417712" version="2" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793">
+    <nd ref="12534102222"/>
+    <nd ref="12534102224"/>
+    <nd ref="12534102225"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1354417713" version="2" timestamp="2025-10-19T14:25:09Z" changeset="173494492" uid="16909100" user="umapjpnic793">
+    <nd ref="12534102226"/>
+    <nd ref="2569142488"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="1354417714" version="3" timestamp="2025-11-15T13:18:28Z" changeset="174686722" uid="16909100" user="umapjpnic793">
+    <nd ref="12534102225"/>
+    <nd ref="12534102226"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="down"/>
+  </way>
+  <way id="1354417715" version="3" timestamp="2025-10-24T12:55:48Z" changeset="173716854" uid="16909100" user="umapjpnic793">
+    <nd ref="2569142488"/>
+    <nd ref="12534102227"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="highway"/>
+    <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="1354417716" version="7" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="6397075556"/>
+    <nd ref="6397075552"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅(改札外);地下2階"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1359839766" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13617760575"/>
+    <nd ref="12587489770"/>
+    <nd ref="13617760586"/>
+    <tag k="destination" v="4号車4番ドア"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+  </way>
+  <way id="1359839767" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12587489767"/>
+    <nd ref="12587489770"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+  </way>
+  <way id="1359839768" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13617760556"/>
+    <nd ref="12587489773"/>
+    <nd ref="13617760567"/>
+    <tag k="destination" v="普通列車4号車4番ドア"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+  </way>
+  <way id="1359839769" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12587489773"/>
+    <nd ref="12587489766"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+  </way>
+  <way id="1359839770" version="5" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="12587489767"/>
+    <nd ref="12587489774"/>
+    <nd ref="12587489776"/>
+    <nd ref="12587489775"/>
+    <nd ref="12587489766"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅;地下3階"/>
+  </way>
+  <way id="1360102080" version="5" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13617760555"/>
+    <nd ref="12590302538"/>
+    <nd ref="13617760568"/>
+    <tag k="destination" v="普通列車3号車2番ドア"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1360102081" version="5" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="13617760574"/>
+    <nd ref="12590302541"/>
+    <nd ref="13617760587"/>
+    <tag k="destination" v="普通列車3号車2番ドア"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1360102082" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12590302540"/>
+    <nd ref="12590302541"/>
+    <tag k="conveying" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1360102100" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12590302538"/>
+    <nd ref="12590302539"/>
+    <tag k="conveying" v="yes"/>
+    <tag k="destination:backward" v="普通列車3号車2番ドア"/>
+    <tag k="highway" v="steps"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1360102101" version="5" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12590302539"/>
+    <nd ref="12590302576"/>
+    <nd ref="12590302540"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1360102103" version="8" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="12528715719"/>
+    <nd ref="6397075556"/>
+    <nd ref="13243336059"/>
+    <nd ref="13243336061"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅(改札外)"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1360102107" version="9" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="12590302579"/>
+    <nd ref="12590302581"/>
+    <nd ref="12590302575"/>
+    <nd ref="12600953088"/>
+    <nd ref="12604226786"/>
+    <nd ref="12587489776"/>
+    <nd ref="12590302576"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="JR東京駅;地下3階"/>
+  </way>
+  <way id="1361180589" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12600953081"/>
+    <nd ref="12600953082"/>
+    <tag k="highway" v="steps"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1361180591" version="4" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12600953085"/>
+    <nd ref="12600953086"/>
+    <tag k="destination:backward" v="普通列車6号車3番ドア"/>
+    <tag k="highway" v="steps"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1361180593" version="6" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="12600953086"/>
+    <nd ref="12600953088"/>
+    <nd ref="12600953082"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="JR東京駅;地下3階"/>
+  </way>
+  <way id="1361180594" version="5" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12522256528"/>
+    <nd ref="12600953089"/>
+    <nd ref="6397053334"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="トイレ;地下3階"/>
+    <tag k="name:en" v="Toilet B3"/>
+  </way>
+  <way id="1361180595" version="11" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="6397238092"/>
+    <nd ref="12590302561"/>
+    <nd ref="12604226789"/>
+    <nd ref="12702920629"/>
+    <nd ref="6397075545"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="JR東京駅;地下2階"/>
+    <tag k="name:en" v="Tokyo Station B2"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1361478396" version="4" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="12604226786"/>
+    <nd ref="12604226787"/>
+    <nd ref="12604226788"/>
+    <nd ref="12604226789"/>
+    <tag k="conveying" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="ref" v="C"/>
+  </way>
+  <way id="1361478397" version="6" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="12587489767"/>
+    <nd ref="12604226790"/>
+    <nd ref="12702920629"/>
+    <nd ref="12604226791"/>
+    <nd ref="12587489766"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅;地下2階"/>
+  </way>
+  <way id="1415817692" version="3" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="12522256534"/>
+    <nd ref="13011065060"/>
+    <nd ref="13011065061"/>
+    <nd ref="12522256520"/>
+    <tag k="conveying" v="forward"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="東京ビルディング"/>
+    <tag k="name:en" v="Tokyo Building (TOKIA)"/>
+  </way>
+  <way id="1415817693" version="6" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="12522256520"/>
+    <nd ref="13011065063"/>
+    <nd ref="12522256534"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="down"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="東京ビルディング"/>
+    <tag k="name:en" v="Tokyo Building (TOKIA)"/>
+    <tag k="step_count" v="45"/>
+  </way>
+  <way id="1419992139" version="3" timestamp="2025-12-21T14:12:15Z" changeset="176219606" uid="507417" user="tartiflex">
+    <nd ref="5110352923"/>
+    <nd ref="13048433181"/>
+    <nd ref="13048433182"/>
+    <nd ref="2253618247"/>
+    <nd ref="260415912"/>
+    <nd ref="2253618251"/>
+    <nd ref="13048433183"/>
+    <nd ref="2744463661"/>
+    <nd ref="2253618252"/>
+    <nd ref="715826087"/>
+    <nd ref="2253618259"/>
+    <nd ref="2253618281"/>
+    <nd ref="473468152"/>
+    <nd ref="2253618291"/>
+    <nd ref="9651932925"/>
+    <nd ref="6244220912"/>
+    <nd ref="257547611"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="cycleway:both" v="shared_lane"/>
+    <tag k="cycleway:lane" v="pictogram"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="大名小路"/>
+    <tag k="name:en" v="Daimyō Kōji"/>
+    <tag k="name:es" v="Daimyō Kōji"/>
+    <tag k="name:fr" v="Daimyō Kōji"/>
+    <tag k="name:ja-Hira" v="だいみょうこうじ"/>
+    <tag k="name:ja-Latn" v="Daimyō Kōji"/>
+    <tag k="ref" v="402"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1419992140" version="2" timestamp="2025-11-05T11:47:44Z" changeset="174237379" uid="12272282" user="近場行き">
+    <nd ref="13048433173"/>
+    <nd ref="5110352923"/>
+    <tag k="cycleway:lane" v="pictogram"/>
+    <tag k="cycleway:left" v="shared_lane"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="錦町有楽町線"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="402"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1443231392" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13243336064"/>
+    <nd ref="13243336058"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="step_count" v="16"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="1443231393" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13243336058"/>
+    <nd ref="13243336063"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="step_count" v="16"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="1443231394" version="2" timestamp="2025-12-28T14:11:41Z" changeset="176530560" uid="16909100" user="umapjpnic793">
+    <nd ref="13243336057"/>
+    <nd ref="13243336060"/>
+    <tag k="footway" v="link"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1443231395" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13243336061"/>
+    <nd ref="13243336062"/>
+    <tag k="conveying" v="forward"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1443231396" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13243336062"/>
+    <nd ref="13243336058"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1443231397" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13243336059"/>
+    <nd ref="13243336065"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="step_count" v="16"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="1443231398" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13243336065"/>
+    <nd ref="13243336064"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="step_count" v="16"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="1443231399" version="2" timestamp="2026-03-04T13:10:07Z" changeset="179348885" uid="12272282" user="近場行き">
+    <nd ref="13243336063"/>
+    <nd ref="13243336057"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="step_count" v="16"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="1447115644" version="2" timestamp="2026-03-29T12:07:42Z" changeset="180579835" uid="12272282" user="近場行き">
+    <nd ref="13277491724"/>
+    <nd ref="13277491725"/>
+    <nd ref="13277491744"/>
+    <nd ref="13277491726"/>
+    <nd ref="13277491746"/>
+    <nd ref="13277491727"/>
+    <nd ref="13277491733"/>
+    <nd ref="13277491728"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="JR有楽町駅;4番線"/>
+  </way>
+  <way id="1447115645" version="2" timestamp="2026-03-29T12:07:42Z" changeset="180579835" uid="12272282" user="近場行き">
+    <nd ref="13277491729"/>
+    <nd ref="13277491730"/>
+    <nd ref="13277491745"/>
+    <nd ref="13277491731"/>
+    <nd ref="13277491732"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="JR有楽町駅;3番線"/>
+  </way>
+  <way id="1450867352" version="1" timestamp="2025-11-15T13:18:28Z" changeset="174686722" uid="16909100" user="umapjpnic793">
+    <nd ref="5097423507"/>
+    <nd ref="5097423508"/>
+    <nd ref="5097423509"/>
+    <nd ref="5097423510"/>
+    <nd ref="5097423511"/>
+    <nd ref="5097423512"/>
+    <nd ref="5097423513"/>
+    <nd ref="5097423514"/>
+    <nd ref="5097423516"/>
+    <nd ref="5097423517"/>
+    <nd ref="13306331827"/>
+    <nd ref="5097423518"/>
+    <nd ref="5097423519"/>
+    <nd ref="5097423520"/>
+    <nd ref="5097423621"/>
+    <nd ref="5097423622"/>
+    <nd ref="5097423624"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="GSI/KIBAN 2500;NARO"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="yes"/>
+  </way>
+  <way id="1450867353" version="5" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="13306331829"/>
+    <nd ref="6397075553"/>
+    <nd ref="13306331830"/>
+    <tag k="destination:forward" v="京葉線"/>
+    <tag k="highway" v="footway"/>
+    <tag k="incline" v="down"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅(改札外)"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1450867354" version="5" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="13306331830"/>
+    <nd ref="6397075552"/>
+    <tag k="destination:forward" v="京葉線"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅(改札外)"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1450867355" version="1" timestamp="2025-11-15T13:18:28Z" changeset="174686722" uid="16909100" user="umapjpnic793">
+    <nd ref="6397075543"/>
+    <nd ref="13306331832"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="1452848303" version="4" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="13324084418"/>
+    <nd ref="13942931003"/>
+    <nd ref="12522256534"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="東京駅(改札外);地下2階"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1458199420" version="1" timestamp="2025-12-13T03:14:21Z" changeset="175869595" uid="20164491" user="nmvi_3">
+    <nd ref="6284627840"/>
+    <nd ref="5110316653"/>
+    <nd ref="5110316654"/>
+    <nd ref="6284627839"/>
+    <nd ref="5110316655"/>
+    <nd ref="5110316656"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </way>
+  <way id="1463632295" version="2" timestamp="2026-02-14T09:05:24Z" changeset="178534838" uid="3418742" user="corrector_91">
+    <nd ref="13426066424"/>
+    <nd ref="13426066402"/>
+    <nd ref="13426066434"/>
+    <nd ref="13426066410"/>
+    <nd ref="13426030297"/>
+    <nd ref="13426066435"/>
+    <nd ref="13426066407"/>
+    <nd ref="13426066401"/>
+    <nd ref="13426066412"/>
+    <nd ref="13426066416"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="有楽町高架下センター商店街"/>
+    <tag k="name:en" v="Yurakucho Under-Track Center Arcade (1F / Ground Floor)"/>
+  </way>
+  <way id="1463632296" version="1" timestamp="2026-01-02T06:17:25Z" changeset="176729218" uid="9596730" user="wasabi1">
+    <nd ref="13426030297"/>
+    <nd ref="13426030298"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1485371593" version="3" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="13617760553"/>
+    <nd ref="13617760554"/>
+    <nd ref="13617760555"/>
+    <nd ref="13617760556"/>
+    <nd ref="13617760557"/>
+    <nd ref="13617760558"/>
+    <nd ref="13617760559"/>
+    <nd ref="13617760560"/>
+    <nd ref="13617760561"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="JR東京駅;京葉地下1番線"/>
+  </way>
+  <way id="1485371594" version="3" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="13617760562"/>
+    <nd ref="13617760563"/>
+    <nd ref="13617760564"/>
+    <nd ref="13617760565"/>
+    <nd ref="13617760566"/>
+    <nd ref="13617760567"/>
+    <nd ref="13617760568"/>
+    <nd ref="13617760569"/>
+    <nd ref="13617760570"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="JR東京駅;京葉地下2番線"/>
+  </way>
+  <way id="1485371595" version="3" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="13617760572"/>
+    <nd ref="13617760573"/>
+    <nd ref="13617760574"/>
+    <nd ref="13617760575"/>
+    <nd ref="13617760576"/>
+    <nd ref="13617760577"/>
+    <nd ref="13617760578"/>
+    <nd ref="13617760579"/>
+    <nd ref="13617760580"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="JR東京駅;京葉地下3番線"/>
+  </way>
+  <way id="1485371596" version="3" timestamp="2026-09-28T04:08:53Z" changeset="189657929" uid="12272282" user="近場行き">
+    <nd ref="13617760581"/>
+    <nd ref="13617760582"/>
+    <nd ref="13617760583"/>
+    <nd ref="13617760584"/>
+    <nd ref="13617760585"/>
+    <nd ref="13617760586"/>
+    <nd ref="13617760587"/>
+    <nd ref="13617760588"/>
+    <nd ref="13617760589"/>
+    <tag k="highway" v="footway"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="JR東京駅;京葉地下4番線"/>
+  </way>
+  <way id="1529707649" version="1" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="13942805999"/>
+    <nd ref="13942806000"/>
+    <nd ref="13942931001"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="東京ビルディング;エレベーター;1階"/>
+  </way>
+  <way id="1529707651" version="1" timestamp="2026-06-15T13:50:28Z" changeset="184139008" uid="12272282" user="近場行き">
+    <nd ref="13942805999"/>
+    <nd ref="13942931002"/>
+    <nd ref="13942931003"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="東京ビルディング;エレベーター;地下2階"/>
+    <tag k="tunnel" v="building_passage"/>
+  </way>
+  <relation id="14893612" version="1" timestamp="2022-11-16T06:03:25Z" changeset="128970917" uid="12272282" user="近場行き">
+    <member type="way" ref="387312965" role="from"/>
+    <member type="node" ref="257547611" role="via"/>
+    <member type="way" ref="254711102" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="14893613" version="1" timestamp="2022-11-16T06:03:25Z" changeset="128970917" uid="12272282" user="近場行き">
+    <member type="way" ref="1105290310" role="from"/>
+    <member type="node" ref="257547230" role="via"/>
+    <member type="way" ref="254711102" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="18607634" version="1" timestamp="2025-01-24T13:43:43Z" changeset="161713047" uid="12272282" user="近場行き">
+    <member type="way" ref="387627963" role="from"/>
+    <member type="node" ref="1588249044" role="via"/>
+    <member type="way" ref="1105155921" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="18607635" version="1" timestamp="2025-01-24T13:43:43Z" changeset="161713047" uid="12272282" user="近場行き">
+    <member type="way" ref="517127276" role="from"/>
+    <member type="node" ref="4114764646" role="via"/>
+    <member type="way" ref="387312965" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="19425695" version="1" timestamp="2025-08-04T14:58:32Z" changeset="169961398" uid="12272282" user="近場行き">
+    <member type="way" ref="1419992140" role="from"/>
+    <member type="node" ref="5110352923" role="via"/>
+    <member type="way" ref="1419992139" role="to"/>
+    <tag k="restriction" v="only_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="19425697" version="1" timestamp="2025-08-04T14:58:32Z" changeset="169961398" uid="12272282" user="近場行き">
+    <member type="way" ref="257233105" role="from"/>
+    <member type="node" ref="5110352923" role="via"/>
+    <member type="way" ref="1419992139" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+
+</osm>

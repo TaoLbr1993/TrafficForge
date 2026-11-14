@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# Preserve original Overpass response bytes and its recorded SHA-256 across platforms.
+data/artifacts/**/source.osm.xml -text

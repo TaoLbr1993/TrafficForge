@@ -1,0 +1,23 @@
+{
+  "query": "Berlin, Germany",
+  "nominatim_url": "https://nominatim.openstreetmap.org/search?q=Berlin%2C+Germany&format=jsonv2&limit=5",
+  "display_name": "Berlin, Deutschland",
+  "osm_type": "relation",
+  "osm_id": 62422,
+  "latitude": 52.5173885,
+  "longitude": 13.3951309,
+  "bbox_wgs84": [
+    13.3933594,
+    52.5163105,
+    13.3969024,
+    52.5184665
+  ],
+  "osm_ways": 88,
+  "sumo_edges": 56,
+  "retrieved_utc": "2026-11-14T04:21:27.194437+00:00",
+  "osm_sha256": "ee14f536d4a4c27a837e892ef5de4a02da55393554124d2f4cde5761cdf5e45c",
+  "netconvert_options": [
+    "--keep-edges.by-vclass",
+    "passenger"
+  ]
+}

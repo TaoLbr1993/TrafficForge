@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-11-14T04:20:38Z"/>
+
+  <node id="470161" lat="48.8591400" lon="2.3202091" version="2" timestamp="2010-03-11T20:10:51Z" changeset="4100730" uid="33634" user="lapinos03"/>
+  <node id="470162" lat="48.8597994" lon="2.3181564" version="6" timestamp="2018-12-31T11:35:58Z" changeset="65909856" uid="570635" user="_phiphou_">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="25194417" lat="48.8595684" lon="2.3190147" version="2" timestamp="2010-06-30T13:03:03Z" changeset="5112964" uid="18744" user="STA"/>
+  <node id="25194419" lat="48.8593763" lon="2.3195587" version="3" timestamp="2019-04-25T03:54:46Z" changeset="69547656" uid="9397053" user="didapike"/>
+  <node id="25194421" lat="48.8585982" lon="2.3216928" version="3" timestamp="2011-03-16T21:00:20Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="25254128" lat="48.8577858" lon="2.3224239" version="2" timestamp="2010-03-11T20:10:51Z" changeset="4100730" uid="33634" user="lapinos03"/>
+  <node id="25254922" lat="48.8586446" lon="2.3198423" version="2" timestamp="2010-03-11T20:10:50Z" changeset="4100730" uid="33634" user="lapinos03"/>
+  <node id="25287889" lat="48.8592447" lon="2.3180050" version="3" timestamp="2018-12-31T11:47:53Z" changeset="65910115" uid="570635" user="_phiphou_"/>
+  <node id="25287890" lat="48.8588669" lon="2.3191859" version="3" timestamp="2019-04-25T03:54:46Z" changeset="69547656" uid="9397053" user="didapike"/>
+  <node id="25580313" lat="48.8574083" lon="2.3181129" version="2" timestamp="2010-03-11T20:10:49Z" changeset="4100730" uid="33634" user="lapinos03"/>
+  <node id="25580316" lat="48.8572041" lon="2.3187698" version="2" timestamp="2010-03-11T20:10:50Z" changeset="4100730" uid="33634" user="lapinos03"/>
+  <node id="25580446" lat="48.8579579" lon="2.3184949" version="5" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="25580447" lat="48.8577315" lon="2.3191766" version="3" timestamp="2011-03-16T20:58:41Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="664135582" lat="48.8600450" lon="2.3215881" version="3" timestamp="2019-01-14T11:21:20Z" changeset="66298359" uid="311391" user="patman37"/>
+  <node id="914052559" lat="48.8589089" lon="2.3193932" version="1" timestamp="2010-09-16T00:12:26Z" changeset="5791922" uid="150478" user="Coyau"/>
+  <node id="914052644" lat="48.8588119" lon="2.3198647" version="1" timestamp="2010-09-16T00:12:33Z" changeset="5791922" uid="150478" user="Coyau"/>
+  <node id="914052680" lat="48.8592796" lon="2.3196725" version="1" timestamp="2010-09-16T00:12:35Z" changeset="5791922" uid="150478" user="Coyau"/>
+  <node id="914052742" lat="48.8591482" lon="2.3200262" version="1" timestamp="2010-09-16T00:12:40Z" changeset="5791922" uid="150478" user="Coyau"/>
+  <node id="914052779" lat="48.8589776" lon="2.3193560" version="1" timestamp="2010-09-16T00:12:43Z" changeset="5791922" uid="150478" user="Coyau"/>
+  <node id="914052794" lat="48.8592134" lon="2.3198510" version="5" timestamp="2022-12-13T19:57:36Z" changeset="130048806" uid="172867" user="AmiFritz">
+    <tag k="addr:housenumber" v="31 bis"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="914052797" lat="48.8591173" lon="2.3200411" version="1" timestamp="2010-09-16T00:12:44Z" changeset="5791922" uid="150478" user="Coyau">
+    <tag k="barrier" v="entrance"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="914052946" lat="48.8592565" lon="2.3195642" version="1" timestamp="2010-09-16T00:12:56Z" changeset="5791922" uid="150478" user="Coyau"/>
+  <node id="914052985" lat="48.8589438" lon="2.3193743" version="1" timestamp="2010-09-16T00:12:58Z" changeset="5791922" uid="150478" user="Coyau">
+    <tag k="barrier" v="entrance"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="914053006" lat="48.8587884" lon="2.3197582" version="1" timestamp="2010-09-16T00:13:00Z" changeset="5791922" uid="150478" user="Coyau"/>
+  <node id="914053026" lat="48.8587998" lon="2.3198098" version="1" timestamp="2010-09-16T00:13:02Z" changeset="5791922" uid="150478" user="Coyau">
+    <tag k="barrier" v="entrance"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="914053088" lat="48.8592686" lon="2.3196209" version="1" timestamp="2010-09-16T00:13:06Z" changeset="5791922" uid="150478" user="Coyau">
+    <tag k="barrier" v="entrance"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="914053112" lat="48.8590794" lon="2.3200595" version="1" timestamp="2010-09-16T00:13:08Z" changeset="5791922" uid="150478" user="Coyau"/>
+  <node id="1204772469" lat="48.8581543" lon="2.3187069" version="1" timestamp="2011-03-16T20:57:23Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772511" lat="48.8590759" lon="2.3200949" version="1" timestamp="2011-03-16T20:57:26Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772528" lat="48.8577727" lon="2.3191128" version="4" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="1204772552" lat="48.8592734" lon="2.3196436" version="1" timestamp="2011-03-16T20:57:28Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772559" lat="48.8589794" lon="2.3192920" version="1" timestamp="2011-03-16T20:57:29Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772573" lat="48.8584375" lon="2.3222066" version="2" timestamp="2023-07-03T13:18:37Z" changeset="138064812" uid="19622282" user="Etiennemapper5362"/>
+  <node id="1204772575" lat="48.8579051" lon="2.3192312" version="2" timestamp="2015-05-27T19:19:11Z" changeset="31512815" uid="2377377" user="abel801"/>
+  <node id="1204772597" lat="48.8588603" lon="2.3192048" version="1" timestamp="2011-03-16T20:57:30Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772603" lat="48.8588589" lon="2.3195447" version="2" timestamp="2020-11-05T03:00:35Z" changeset="93569896" uid="502891" user="chabe01">
+    <tag k="addr:housenumber" v="28b"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"/>
+  </node>
+  <node id="1204772668" lat="48.8592623" lon="2.3195914" version="1" timestamp="2011-03-16T20:57:35Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772672" lat="48.8588055" lon="2.3198355" version="1" timestamp="2011-03-16T20:57:35Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772694" lat="48.8578338" lon="2.3186284" version="1" timestamp="2011-03-16T20:57:36Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772716" lat="48.8591591" lon="2.3200489" version="1" timestamp="2011-03-16T20:57:37Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772758" lat="48.8581846" lon="2.3186984" version="2" timestamp="2012-09-30T20:23:17Z" changeset="13314974" uid="456113" user="eric_G"/>
+  <node id="1204772791" lat="48.8593035" lon="2.3196544" version="1" timestamp="2011-03-16T20:57:42Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772802" lat="48.8590977" lon="2.3200506" version="1" timestamp="2011-03-16T20:57:42Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772817" lat="48.8580763" lon="2.3193565" version="1" timestamp="2011-03-16T20:57:43Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772852" lat="48.8591331" lon="2.3200335" version="1" timestamp="2011-03-16T20:57:45Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772854" lat="48.8589584" lon="2.3193664" version="1" timestamp="2011-03-16T20:57:46Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772863" lat="48.8589239" lon="2.3193851" version="1" timestamp="2011-03-16T20:57:46Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772869" lat="48.8580904" lon="2.3193891" version="1" timestamp="2011-03-16T20:57:46Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772899" lat="48.8586170" lon="2.3197218" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="1204772923" lat="48.8582161" lon="2.3186834" version="3" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="1204772924" lat="48.8587934" lon="2.3197806" version="1" timestamp="2011-03-16T20:57:49Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772964" lat="48.8586544" lon="2.3198133" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="1204772970" lat="48.8592738" lon="2.3195409" version="1" timestamp="2011-03-16T20:57:55Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204772980" lat="48.8590332" lon="2.3225021" version="2" timestamp="2023-07-03T13:18:37Z" changeset="138064812" uid="19622282" user="Etiennemapper5362"/>
+  <node id="1204772985" lat="48.8578544" lon="2.3185649" version="1" timestamp="2011-03-16T20:57:57Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204773018" lat="48.8589860" lon="2.3193255" version="1" timestamp="2011-03-16T20:58:02Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204773034" lat="48.8580122" lon="2.3185975" version="5" timestamp="2026-09-20T05:13:06Z" changeset="189280337" uid="24475827" user="Fox_45">
+    <tag k="amenity" v="parking_entrance"/>
+    <tag k="maxheight:signed" v="no"/>
+    <tag k="parking" v="underground"/>
+  </node>
+  <node id="1204773037" lat="48.8580882" lon="2.3194367" version="1" timestamp="2011-03-16T20:58:03Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1204773057" lat="48.8587824" lon="2.3192152" version="1" timestamp="2011-03-16T20:58:04Z" changeset="7579652" uid="17286" user="Pieren"/>
+  <node id="1756960219" lat="48.8581579" lon="2.3227975" version="2" timestamp="2019-02-16T18:31:54Z" changeset="67259957" uid="570635" user="_phiphou_">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="2465032469" lat="48.8588108" lon="2.3191446" version="6" timestamp="2025-01-02T11:09:01Z" changeset="160901920" uid="15118949" user="Nzau">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2465032490" lat="48.8590960" lon="2.3184515" version="3" timestamp="2026-09-19T17:43:32Z" changeset="189265216" uid="24475827" user="Fox_45">
+    <tag k="crossing:markings" v="no"/>
+    <tag k="crossing:signals" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="2465032526" lat="48.8592222" lon="2.3180748" version="11" timestamp="2026-08-28T08:47:52Z" changeset="188135100" uid="24475827" user="Fox_45">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2712549850" lat="48.8572484" lon="2.3188040" version="9" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549856" lat="48.8574486" lon="2.3181427" version="11" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2712549865" lat="48.8578062" lon="2.3223627" version="9" timestamp="2025-07-03T05:45:37Z" changeset="168427261" uid="3057469" user="DavGui">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549867" lat="48.8578727" lon="2.3234872" version="11" timestamp="2025-01-02T11:09:06Z" changeset="160901928" uid="15118949" user="Nzau">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+  </node>
+  <node id="2712549887" lat="48.8585980" lon="2.3198085" version="7" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549895" lat="48.8588895" lon="2.3191140" version="6" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549896" lat="48.8589164" lon="2.3192222" version="5" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549899" lat="48.8590895" lon="2.3201717" version="7" timestamp="2025-01-02T11:09:06Z" changeset="160901928" uid="15118949" user="Nzau">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549900" lat="48.8591122" lon="2.3202852" version="7" timestamp="2025-01-02T11:09:06Z" changeset="160901928" uid="15118949" user="Nzau">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549909" lat="48.8593262" lon="2.3197000" version="8" timestamp="2025-01-02T11:09:06Z" changeset="160901928" uid="15118949" user="Nzau">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549910" lat="48.8593264" lon="2.3195239" version="8" timestamp="2025-01-02T11:09:06Z" changeset="160901928" uid="15118949" user="Nzau">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549911" lat="48.8594043" lon="2.3194802" version="9" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="2712549926" lat="48.8597832" lon="2.3182457" version="10" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4729508755" lat="48.8589725" lon="2.3226062" version="2" timestamp="2019-01-01T18:10:13Z" changeset="65938984" uid="311391" user="patman37"/>
+  <node id="4729508770" lat="48.8613856" lon="2.3203226" version="1" timestamp="2017-03-11T18:21:07Z" changeset="46768596" uid="3178375" user="LeTopographeFou"/>
+  <node id="4729508771" lat="48.8612342" lon="2.3204577" version="1" timestamp="2017-03-11T18:21:07Z" changeset="46768596" uid="3178375" user="LeTopographeFou"/>
+  <node id="4729508774" lat="48.8577681" lon="2.3237278" version="1" timestamp="2017-03-11T18:21:07Z" changeset="46768596" uid="3178375" user="LeTopographeFou"/>
+  <node id="4793893606" lat="48.8578328" lon="2.3235785" version="3" timestamp="2020-10-24T15:16:33Z" changeset="92991413" uid="1424448" user="nlehuby">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Solférino - Bellechasse"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="4880720520" lat="48.8603619" lon="2.3212824" version="4" timestamp="2025-09-14T08:20:03Z" changeset="171904741" uid="7550430" user="Britzz">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Lille - Université"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="4880720821" lat="48.8615573" lon="2.3201521" version="6" timestamp="2020-10-24T15:16:33Z" changeset="92991413" uid="1424448" user="nlehuby">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Assemblée Nationale"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="5306314256" lat="48.8592668" lon="2.3198578" version="3" timestamp="2020-10-24T13:29:01Z" changeset="92988416" uid="1424448" user="nlehuby">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Bourgogne"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="survey 12/2017"/>
+  </node>
+  <node id="6407148410" lat="48.8596741" lon="2.3219386" version="11" timestamp="2025-01-02T11:09:45Z" changeset="160901980" uid="15118949" user="Nzau">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+  </node>
+  <node id="6447713840" lat="48.8586953" lon="2.3190596" version="1" timestamp="2019-05-04T13:20:16Z" changeset="69874907" uid="158826" user="cquest"/>
+  <node id="6447713842" lat="48.8578558" lon="2.3184391" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="6447713850" lat="48.8577450" lon="2.3191358" version="1" timestamp="2019-05-04T13:20:16Z" changeset="69874907" uid="158826" user="cquest">
+    <tag k="barrier" v="bollard"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+  </node>
+  <node id="6447713851" lat="48.8579437" lon="2.3185354" version="2" timestamp="2026-09-20T05:12:17Z" changeset="189280357" uid="24475827" user="Fox_45">
+    <tag k="barrier" v="bollard"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bollard" v="removable"/>
+    <tag k="foot" v="yes"/>
+  </node>
+  <node id="6447713852" lat="48.8578103" lon="2.3192341" version="5" timestamp="2025-01-02T11:09:47Z" changeset="160901980" uid="15118949" user="Nzau">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="6783619346" lat="48.8614612" lon="2.3202444" version="8" timestamp="2025-01-02T11:09:52Z" changeset="160901995" uid="15118949" user="Nzau">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="6783621428" lat="48.8609827" lon="2.3206968" version="7" timestamp="2025-01-02T11:09:52Z" changeset="160901995" uid="15118949" user="Nzau">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6783645718" lat="48.8602325" lon="2.3214099" version="9" timestamp="2025-02-12T04:18:35Z" changeset="162414163" uid="485808" user="Alexey Lukin">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="6783661997" lat="48.8590617" lon="2.3225213" version="7" timestamp="2025-01-02T11:09:52Z" changeset="160901995" uid="15118949" user="Nzau">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="8395404618" lat="48.8618738" lon="2.3198670" version="1" timestamp="2021-02-04T22:43:31Z" changeset="98729785" uid="53964" user="_Mathieu_"/>
+  <node id="8395404619" lat="48.8619493" lon="2.3198749" version="1" timestamp="2021-02-04T22:43:31Z" changeset="98729785" uid="53964" user="_Mathieu_"/>
+  <node id="8895180441" lat="48.8600281" lon="2.3215086" version="2" timestamp="2023-07-03T10:29:08Z" changeset="138058057" uid="19622282" user="Etiennemapper5362"/>
+  <node id="9587700278" lat="48.8618481" lon="2.3198901" version="3" timestamp="2025-06-29T08:39:01Z" changeset="168255176" uid="5589" user="user_5589">
+    <tag k="direction" v="forward"/>
+    <tag k="man_made" v="monitoring_station"/>
+    <tag k="monitoring:bicycle" v="yes"/>
+    <tag k="operator" v="Eco-Compteur"/>
+    <tag k="operator:wikidata" v="Q21074971"/>
+    <tag k="ref" v="100050132"/>
+  </node>
+  <node id="11021950580" lat="48.8574679" lon="2.3180756" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021950583" lat="48.8579332" lon="2.3185750" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021950584" lat="48.8578646" lon="2.3185270" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021950586" lat="48.8574307" lon="2.3182037" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021950589" lat="48.8578215" lon="2.3192019" version="2" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021950590" lat="48.8578267" lon="2.3191825" version="3" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021950593" lat="48.8572726" lon="2.3187321" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021950594" lat="48.8572609" lon="2.3187674" version="4" timestamp="2026-03-21T17:49:04Z" changeset="180219245" uid="2678738" user="fgouget">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="11021950654" lat="48.8577997" lon="2.3192659" version="2" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021950655" lat="48.8577949" lon="2.3192784" version="2" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021950656" lat="48.8580557" lon="2.3194711" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021950657" lat="48.8583883" lon="2.3197225" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021950658" lat="48.8585838" lon="2.3198446" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021950659" lat="48.8585784" lon="2.3198611" version="3" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021950660" lat="48.8585901" lon="2.3198751" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021950661" lat="48.8585807" lon="2.3198680" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021950662" lat="48.8581777" lon="2.3210871" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021950663" lat="48.8579381" lon="2.3218207" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021950665" lat="48.8577691" lon="2.3223263" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021951787" lat="48.8591881" lon="2.3180663" version="4" timestamp="2026-08-28T08:47:18Z" changeset="188135086" uid="24475827" user="Fox_45">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="11021951788" lat="48.8591780" lon="2.3180633" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951789" lat="48.8588260" lon="2.3190996" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021951790" lat="48.8588313" lon="2.3190835" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951791" lat="48.8588440" lon="2.3190809" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951792" lat="48.8588544" lon="2.3190878" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951794" lat="48.8592697" lon="2.3180874" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951800" lat="48.8597557" lon="2.3182416" version="3" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="11021951801" lat="48.8597489" lon="2.3182403" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951804" lat="48.8595894" lon="2.3188619" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021951805" lat="48.8595137" lon="2.3190627" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021951806" lat="48.8593787" lon="2.3194584" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951807" lat="48.8593702" lon="2.3194520" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951808" lat="48.8593565" lon="2.3194727" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951809" lat="48.8593415" lon="2.3194775" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021951810" lat="48.8593456" lon="2.3194649" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951811" lat="48.8589318" lon="2.3191754" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951812" lat="48.8589358" lon="2.3191600" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951813" lat="48.8589232" lon="2.3191398" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021951814" lat="48.8589124" lon="2.3191311" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952333" lat="48.8598164" lon="2.3182507" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952334" lat="48.8598228" lon="2.3182520" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952335" lat="48.8597826" lon="2.3184093" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952336" lat="48.8597542" lon="2.3184830" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952337" lat="48.8596123" lon="2.3190252" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952338" lat="48.8594324" lon="2.3195043" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952339" lat="48.8594398" lon="2.3195103" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952340" lat="48.8593532" lon="2.3197222" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952341" lat="48.8593609" lon="2.3197266" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952342" lat="48.8592318" lon="2.3200572" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952343" lat="48.8592392" lon="2.3200642" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952344" lat="48.8591418" lon="2.3203063" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952345" lat="48.8591476" lon="2.3203103" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952346" lat="48.8587333" lon="2.3214459" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952347" lat="48.8587274" lon="2.3214398" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952348" lat="48.8590821" lon="2.3202637" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952349" lat="48.8590745" lon="2.3202579" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952350" lat="48.8590750" lon="2.3202097" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952351" lat="48.8590704" lon="2.3202241" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952352" lat="48.8586938" lon="2.3199268" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952353" lat="48.8586877" lon="2.3199415" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952354" lat="48.8586577" lon="2.3199236" version="2" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952355" lat="48.8586660" lon="2.3199301" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021952357" lat="48.8578490" lon="2.3224081" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952364" lat="48.8581585" lon="2.3227156" version="4" timestamp="2025-07-03T05:45:35Z" changeset="168427259" uid="3057469" user="DavGui">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="11021952365" lat="48.8581538" lon="2.3227025" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952366" lat="48.8582533" lon="2.3224587" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952367" lat="48.8583994" lon="2.3220906" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952368" lat="48.8586579" lon="2.3213768" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952369" lat="48.8586654" lon="2.3213842" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952370" lat="48.8583407" lon="2.3224557" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952383" lat="48.8590033" lon="2.3224664" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021952384" lat="48.8600378" lon="2.3214995" version="1" timestamp="2023-07-03T09:53:01Z" changeset="138056664" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11021971671" lat="48.8592939" lon="2.3196118" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021971672" lat="48.8592977" lon="2.3196770" version="3" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11021971673" lat="48.8586253" lon="2.3199004" version="5" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="11021971674" lat="48.8586997" lon="2.3214150" version="4" timestamp="2025-01-18T18:16:14Z" changeset="161501437" uid="15118949" user="Nzau">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="11021971675" lat="48.8577571" lon="2.3190996" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022032490" lat="48.8596439" lon="2.3218677" version="1" timestamp="2023-07-03T10:29:08Z" changeset="138058057" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11022032503" lat="48.8581804" lon="2.3227410" version="6" timestamp="2025-07-03T05:45:35Z" changeset="168427262" uid="3057469" user="DavGui">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="11022032504" lat="48.8581233" lon="2.3228797" version="6" timestamp="2025-07-03T05:45:33Z" changeset="168427262" uid="3057469" user="DavGui">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="11022527309" lat="48.8591735" lon="2.3200134" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527310" lat="48.8591649" lon="2.3200068" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527311" lat="48.8591506" lon="2.3200398" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11022527312" lat="48.8591271" lon="2.3200538" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527313" lat="48.8591295" lon="2.3200669" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11022527314" lat="48.8590771" lon="2.3200760" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11022527315" lat="48.8587288" lon="2.3198255" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527316" lat="48.8587180" lon="2.3198602" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527317" lat="48.8586196" lon="2.3197441" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527318" lat="48.8586093" lon="2.3197798" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527320" lat="48.8579132" lon="2.3192063" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527322" lat="48.8581601" lon="2.3187423" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527324" lat="48.8587920" lon="2.3192046" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527325" lat="48.8588039" lon="2.3191651" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527326" lat="48.8588959" lon="2.3192821" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527327" lat="48.8589094" lon="2.3192432" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527329" lat="48.8592644" lon="2.3195509" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527330" lat="48.8592824" lon="2.3196215" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527331" lat="48.8592908" lon="2.3196697" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527332" lat="48.8592005" lon="2.3200338" version="4" timestamp="2025-01-18T18:16:14Z" changeset="161501437" uid="15118949" user="Nzau">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="11022527333" lat="48.8587075" lon="2.3198891" version="5" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="traffic_signals:sound" v="no"/>
+  </node>
+  <node id="11022527370" lat="48.8579485" lon="2.3185859" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527372" lat="48.8588015" lon="2.3198938" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022527374" lat="48.8588471" lon="2.3192464" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="11022690444" lat="48.8583443" lon="2.3224465" version="1" timestamp="2023-07-03T13:18:37Z" changeset="138064812" uid="19622282" user="Etiennemapper5362"/>
+  <node id="11367948235" lat="48.8581475" lon="2.3194799" version="1" timestamp="2023-11-22T06:00:37Z" changeset="144311513" uid="15458791" user="BR_pebble"/>
+  <node id="11367948236" lat="48.8581327" lon="2.3195293" version="1" timestamp="2023-11-22T06:00:37Z" changeset="144311513" uid="15458791" user="BR_pebble"/>
+  <node id="11367948237" lat="48.8581281" lon="2.3195458" version="1" timestamp="2023-11-22T06:00:37Z" changeset="144311513" uid="15458791" user="BR_pebble"/>
+  <node id="11367948238" lat="48.8579586" lon="2.3200183" version="1" timestamp="2023-11-22T06:00:37Z" changeset="144311513" uid="15458791" user="BR_pebble"/>
+  <node id="12182616747" lat="48.8577056" lon="2.3190561" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="12616038412" lat="48.8590048" lon="2.3187442" version="1" timestamp="2025-02-24T15:42:03Z" changeset="162898291" uid="7512839" user="Benoît C MdP">
+    <tag k="barrier" v="swing_gate"/>
+  </node>
+  <node id="13355947401" lat="48.8592778" lon="2.3195490" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947402" lat="48.8593018" lon="2.3196645" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947403" lat="48.8593026" lon="2.3196458" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947404" lat="48.8589808" lon="2.3193454" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947405" lat="48.8587807" lon="2.3199056" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947406" lat="48.8588068" lon="2.3198787" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947407" lat="48.8586114" lon="2.3197377" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947408" lat="48.8587871" lon="2.3192011" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947409" lat="48.8585996" lon="2.3197738" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947410" lat="48.8586662" lon="2.3197788" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13355947413" lat="48.8588002" lon="2.3191624" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz"/>
+  <node id="13997822364" lat="48.8600751" lon="2.3209103" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="parking_entrance"/>
+    <tag k="parking" v="underground"/>
+  </node>
+  <node id="13997822365" lat="48.8599410" lon="2.3208093" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822366" lat="48.8598663" lon="2.3208128" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822367" lat="48.8596876" lon="2.3213024" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822368" lat="48.8595812" lon="2.3214416" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822369" lat="48.8594405" lon="2.3215965" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822370" lat="48.8591747" lon="2.3213918" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822371" lat="48.8589262" lon="2.3211573" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822372" lat="48.8588582" lon="2.3211035" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822373" lat="48.8588249" lon="2.3210720" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822379" lat="48.8589986" lon="2.3212256" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <node id="13997822380" lat="48.8586349" lon="2.3221851" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece"/>
+  <way id="4262834" version="43" timestamp="2025-12-04T22:17:58Z" changeset="175522391" uid="922338" user="Hervé TUC">
+    <nd ref="6447713840"/>
+    <nd ref="2465032469"/>
+    <nd ref="25287890"/>
+    <nd ref="2712549896"/>
+    <nd ref="2712549910"/>
+    <nd ref="25194419"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rue de Martignac"/>
+    <tag k="name:etymology:wikidata" v="Q958953"/>
+    <tag k="name:ru" v="улица Мартиньяк"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4262835" version="41" timestamp="2025-12-04T22:17:58Z" changeset="175522391" uid="922338" user="Hervé TUC">
+    <nd ref="470161"/>
+    <nd ref="2712549899"/>
+    <nd ref="11022527333"/>
+    <nd ref="25254922"/>
+    <nd ref="2712549887"/>
+    <nd ref="11367948235"/>
+    <nd ref="1204773037"/>
+    <nd ref="6447713852"/>
+    <nd ref="25580447"/>
+    <nd ref="2712549850"/>
+    <nd ref="25580316"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rue Casimir Périer"/>
+    <tag k="name:etymology:wikidata" v="Q284683"/>
+    <tag k="name:ru" v="улица Казимир Перье"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4262836" version="38" timestamp="2025-02-24T15:42:03Z" changeset="162898291" uid="7512839" user="Benoît C MdP">
+    <nd ref="25287890"/>
+    <nd ref="2712549895"/>
+    <nd ref="12616038412"/>
+    <nd ref="2465032490"/>
+    <nd ref="2465032526"/>
+    <nd ref="25287889"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Rue Las Cases"/>
+    <tag k="name:etymology:wikidata" v="Q585856"/>
+    <tag k="name:ru" v="улица Ла Кас"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4262838" version="33" timestamp="2024-04-01T13:55:34Z" changeset="149436432" uid="6290466" user="benjamintchik">
+    <nd ref="25580446"/>
+    <nd ref="6447713851"/>
+    <nd ref="11021950583"/>
+    <nd ref="11021971675"/>
+    <nd ref="6447713850"/>
+    <nd ref="25580447"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Rue de Champagny"/>
+    <tag k="name:etymology:wikidata" v="Q1361368"/>
+    <tag k="name:ru" v="улица Шампаньи"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="21122928" version="10" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <nd ref="25287890"/>
+    <nd ref="1204772597"/>
+    <nd ref="11022527374"/>
+    <nd ref="13355947410"/>
+    <nd ref="1204772964"/>
+    <nd ref="25254922"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Parvis Maurice Druon"/>
+    <tag k="name:etymology:wikidata" v="Q223949"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="21122939" version="37" timestamp="2025-12-04T22:17:58Z" changeset="175522391" uid="922338" user="Hervé TUC">
+    <nd ref="25254128"/>
+    <nd ref="2712549865"/>
+    <nd ref="11021971673"/>
+    <nd ref="25254922"/>
+    <tag k="cycleway" v="opposite"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rue Las Cases"/>
+    <tag k="name:etymology:wikidata" v="Q585856"/>
+    <tag k="name:ru" v="улица Ла Кас"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="104416138" version="3" timestamp="2025-12-04T22:18:04Z" changeset="175522391" uid="922338" user="Hervé TUC">
+    <nd ref="1204773037"/>
+    <nd ref="1204772869"/>
+    <nd ref="1204772817"/>
+    <nd ref="1204772575"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="104416157" version="2" timestamp="2025-12-04T22:18:04Z" changeset="175522391" uid="922338" user="Hervé TUC">
+    <nd ref="1204772985"/>
+    <nd ref="1204772694"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="104416184" version="4" timestamp="2025-12-04T22:18:04Z" changeset="175522391" uid="922338" user="Hervé TUC">
+    <nd ref="1204773034"/>
+    <nd ref="1204772469"/>
+    <nd ref="1204772758"/>
+    <nd ref="1204772923"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="479918630" version="21" timestamp="2025-11-03T14:40:02Z" changeset="174151166" uid="22579215" user="fhqi819hds91">
+    <nd ref="8395404619"/>
+    <nd ref="8395404618"/>
+    <nd ref="9587700278"/>
+    <nd ref="4880720821"/>
+    <nd ref="6783619346"/>
+    <nd ref="4729508770"/>
+    <nd ref="4729508771"/>
+    <nd ref="6783621428"/>
+    <nd ref="4880720520"/>
+    <nd ref="6783645718"/>
+    <nd ref="664135582"/>
+    <nd ref="6407148410"/>
+    <nd ref="6783661997"/>
+    <nd ref="4729508755"/>
+    <tag k="access" v="no"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="share_busway"/>
+    <tag k="highway" v="service"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Boulevard Saint-Germain"/>
+    <tag k="name:etymology:wikidata" v="Q255910"/>
+    <tag k="name:zh" v="圣日耳曼大道"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="687775138" version="31" timestamp="2026-09-20T05:17:13Z" changeset="189280269" uid="24475827" user="Fox_45">
+    <nd ref="1204772923"/>
+    <nd ref="6447713840"/>
+    <tag k="cycleway:both" v="shared_lane"/>
+    <tag k="cycleway:both:lane" v="pictogram"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rue de Martignac"/>
+    <tag k="name:etymology:wikidata" v="Q958953"/>
+    <tag k="name:ru" v="улица Мартиньяк"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:both" v="parallel"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="687775140" version="32" timestamp="2026-09-20T05:13:18Z" changeset="189280269" uid="24475827" user="Fox_45">
+    <nd ref="6447713842"/>
+    <nd ref="25580446"/>
+    <nd ref="1204772923"/>
+    <tag k="cycleway:both" v="shared_lane"/>
+    <tag k="cycleway:both:lane" v="pictogram"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rue de Martignac"/>
+    <tag k="name:etymology:wikidata" v="Q958953"/>
+    <tag k="name:ru" v="улица Мартиньяк"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:both" v="no_parking"/>
+    <tag k="parking:lane:left" v="parallel"/>
+    <tag k="parking:lane:right" v="no_parking"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="687775143" version="32" timestamp="2026-03-21T17:49:14Z" changeset="180219223" uid="2678738" user="fgouget">
+    <nd ref="25580313"/>
+    <nd ref="2712549856"/>
+    <nd ref="6447713842"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rue de Martignac"/>
+    <tag k="name:etymology:wikidata" v="Q958953"/>
+    <tag k="name:ru" v="улица Мартиньяк"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:both" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="709168471" version="37" timestamp="2026-09-19T14:13:33Z" changeset="189255391" uid="24475827" user="Fox_45">
+    <nd ref="470162"/>
+    <nd ref="2712549926"/>
+    <nd ref="25194417"/>
+    <nd ref="2712549911"/>
+    <nd ref="25194419"/>
+    <nd ref="2712549909"/>
+    <nd ref="5306314256"/>
+    <nd ref="11022527332"/>
+    <nd ref="470161"/>
+    <nd ref="2712549900"/>
+    <nd ref="13997822373"/>
+    <nd ref="11021971674"/>
+    <nd ref="25194421"/>
+    <nd ref="11022032503"/>
+    <nd ref="1756960219"/>
+    <nd ref="11022032504"/>
+    <nd ref="2712549867"/>
+    <nd ref="4793893606"/>
+    <nd ref="4729508774"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rue Saint-Dominique"/>
+    <tag k="name:etymology:wikidata" v="Q44091"/>
+    <tag k="name:ru" v="улица Сэн-Доминик"/>
+    <tag k="name:zh" v="圣多米尼克路"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="FR:urban"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1186728738" version="4" timestamp="2026-03-21T17:49:13Z" changeset="180219223" uid="2678738" user="fgouget">
+    <nd ref="11021950580"/>
+    <nd ref="11021951790"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1186728740" version="6" timestamp="2026-03-21T17:49:14Z" changeset="180219223" uid="2678738" user="fgouget">
+    <nd ref="11021950586"/>
+    <nd ref="11021950584"/>
+    <nd ref="11021950583"/>
+    <nd ref="11022527370"/>
+    <nd ref="11022527322"/>
+    <nd ref="13355947408"/>
+    <nd ref="11022527324"/>
+    <nd ref="11022527325"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1186728742" version="6" timestamp="2026-10-22T19:37:41Z" changeset="190900255" uid="49791" user="Arrutic">
+    <nd ref="11021950594"/>
+    <nd ref="11021950593"/>
+    <nd ref="12182616747"/>
+    <nd ref="11021971675"/>
+    <nd ref="1204772528"/>
+    <nd ref="11021950590"/>
+    <nd ref="11021950589"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1186728764" version="3" timestamp="2023-11-22T06:00:37Z" changeset="144311513" uid="15458791" user="BR_pebble">
+    <nd ref="11021950659"/>
+    <nd ref="11021950657"/>
+    <nd ref="11367948236"/>
+    <nd ref="11021950656"/>
+    <nd ref="11021950655"/>
+    <nd ref="11021950654"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186728765" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021950658"/>
+    <nd ref="11021950659"/>
+    <nd ref="11021950661"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186728766" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021950665"/>
+    <nd ref="11021950663"/>
+    <nd ref="11021950662"/>
+    <nd ref="11021950661"/>
+    <nd ref="11021950660"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729072" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021951791"/>
+    <nd ref="11021951788"/>
+    <nd ref="11021951787"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729073" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021951792"/>
+    <nd ref="11021951791"/>
+    <nd ref="11021951790"/>
+    <nd ref="11021951789"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729074" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021951794"/>
+    <nd ref="11021951813"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729078" version="3" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <nd ref="11021951807"/>
+    <nd ref="11021951805"/>
+    <nd ref="11021951804"/>
+    <nd ref="11021951801"/>
+    <nd ref="11021951800"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729079" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021951810"/>
+    <nd ref="11021951808"/>
+    <nd ref="11021951807"/>
+    <nd ref="11021951806"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729080" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021951812"/>
+    <nd ref="11021951810"/>
+    <nd ref="11021951809"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729081" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021951814"/>
+    <nd ref="11021951813"/>
+    <nd ref="11021951812"/>
+    <nd ref="11021951811"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729259" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952339"/>
+    <nd ref="11021952337"/>
+    <nd ref="11021952336"/>
+    <nd ref="11021952335"/>
+    <nd ref="11021952334"/>
+    <nd ref="11021952333"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729260" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952341"/>
+    <nd ref="11021952339"/>
+    <nd ref="11021952338"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729261" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952343"/>
+    <nd ref="11021952341"/>
+    <nd ref="11021952340"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729262" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952345"/>
+    <nd ref="11021952343"/>
+    <nd ref="11021952342"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729263" version="4" timestamp="2026-10-25T14:26:07Z" changeset="191013575" uid="24475827" user="Fox_45">
+    <nd ref="11021952347"/>
+    <nd ref="11021952346"/>
+    <nd ref="13997822372"/>
+    <nd ref="11021952345"/>
+    <nd ref="11021952344"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1186729264" version="3" timestamp="2026-10-25T14:26:13Z" changeset="191013575" uid="24475827" user="Fox_45">
+    <nd ref="11021952349"/>
+    <nd ref="11021952368"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1186729265" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952351"/>
+    <nd ref="11021952349"/>
+    <nd ref="11021952348"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729266" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952353"/>
+    <nd ref="11021952351"/>
+    <nd ref="11021952350"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729267" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952355"/>
+    <nd ref="11021952353"/>
+    <nd ref="11021952352"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729268" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952357"/>
+    <nd ref="11021952355"/>
+    <nd ref="11021952354"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729272" version="2" timestamp="2023-07-03T09:54:45Z" changeset="138056717" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952369"/>
+    <nd ref="11021952368"/>
+    <nd ref="11021952367"/>
+    <nd ref="11021952366"/>
+    <nd ref="11021952365"/>
+    <nd ref="11021952364"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186729279" version="4" timestamp="2024-09-02T13:03:42Z" changeset="156097894" uid="2678738" user="fgouget">
+    <nd ref="11021952384"/>
+    <nd ref="8895180441"/>
+    <nd ref="11022032490"/>
+    <nd ref="11021952383"/>
+    <nd ref="1204772980"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1186740195" version="1" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952338"/>
+    <nd ref="2712549911"/>
+    <nd ref="11021951806"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186740196" version="1" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021951809"/>
+    <nd ref="2712549910"/>
+    <nd ref="11021971671"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186740197" version="1" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952340"/>
+    <nd ref="2712549909"/>
+    <nd ref="11021971672"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186740198" version="1" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021950660"/>
+    <nd ref="11021971673"/>
+    <nd ref="11021952354"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186740199" version="1" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952344"/>
+    <nd ref="2712549900"/>
+    <nd ref="11021952348"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186740200" version="1" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952369"/>
+    <nd ref="11021971674"/>
+    <nd ref="11021952347"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186740201" version="2" timestamp="2023-07-03T13:18:37Z" changeset="138064812" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021952346"/>
+    <nd ref="1204772573"/>
+    <nd ref="11022690444"/>
+    <nd ref="11021952370"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186740202" version="1" timestamp="2023-07-03T10:06:31Z" changeset="138057147" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021950589"/>
+    <nd ref="6447713852"/>
+    <nd ref="11021950654"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829313" version="2" timestamp="2026-09-09T13:09:32Z" changeset="188772971" uid="21301363" user="ID9">
+    <nd ref="11022527309"/>
+    <nd ref="11022527310"/>
+    <nd ref="11022527311"/>
+    <nd ref="11022527312"/>
+    <nd ref="11022527313"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="compacted"/>
+  </way>
+  <way id="1186829314" version="3" timestamp="2026-09-09T13:09:03Z" changeset="188772971" uid="21301363" user="ID9">
+    <nd ref="11022527312"/>
+    <nd ref="11022527314"/>
+    <nd ref="13355947406"/>
+    <nd ref="11022527315"/>
+    <nd ref="11022527316"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="compacted"/>
+  </way>
+  <way id="1186829315" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <nd ref="11022527315"/>
+    <nd ref="13355947410"/>
+    <nd ref="11022527317"/>
+    <nd ref="11022527318"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829316" version="3" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <nd ref="11022527317"/>
+    <nd ref="13355947407"/>
+    <nd ref="11022527320"/>
+    <nd ref="11021950590"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829319" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11022527324"/>
+    <nd ref="11022527374"/>
+    <nd ref="11022527326"/>
+    <nd ref="11022527327"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829320" version="2" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <nd ref="11022527326"/>
+    <nd ref="13355947404"/>
+    <nd ref="11022527329"/>
+    <nd ref="11022527330"/>
+    <nd ref="11021971671"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829321" version="2" timestamp="2026-09-09T13:09:36Z" changeset="188772971" uid="21301363" user="ID9">
+    <nd ref="11022527330"/>
+    <nd ref="11022527331"/>
+    <nd ref="11021971672"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="compacted"/>
+  </way>
+  <way id="1186829322" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11022527331"/>
+    <nd ref="11022527310"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829323" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11022527309"/>
+    <nd ref="11022527332"/>
+    <nd ref="11021952342"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829324" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11022527313"/>
+    <nd ref="2712549899"/>
+    <nd ref="11021952350"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829325" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11022527316"/>
+    <nd ref="11022527333"/>
+    <nd ref="11021952352"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829326" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11022527318"/>
+    <nd ref="2712549887"/>
+    <nd ref="11021950658"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829327" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021951789"/>
+    <nd ref="2465032469"/>
+    <nd ref="11022527325"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829328" version="1" timestamp="2023-07-03T12:33:56Z" changeset="138062933" uid="19622282" user="Etiennemapper5362">
+    <nd ref="11021951792"/>
+    <nd ref="2712549895"/>
+    <nd ref="11021951814"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1186829329" version="2" timestamp="2024-03-15T17:17:33Z" changeset="148699629" uid="570635" user="_phiphou_">
+    <nd ref="11021951811"/>
+    <nd ref="2712549896"/>
+    <nd ref="11022527327"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1225834170" version="1" timestamp="2023-11-22T06:00:37Z" changeset="144311513" uid="15458791" user="BR_pebble">
+    <nd ref="11367948238"/>
+    <nd ref="11367948237"/>
+    <nd ref="11367948236"/>
+    <nd ref="11367948235"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="1316193698" version="1" timestamp="2024-09-17T16:59:06Z" changeset="156739142" uid="1885164" user="Xandrex">
+    <nd ref="11021950584"/>
+    <nd ref="1204772985"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1456301792" version="1" timestamp="2025-12-05T16:20:41Z" changeset="175555315" uid="7550430" user="Britzz">
+    <nd ref="13355947409"/>
+    <nd ref="13355947407"/>
+    <nd ref="1204772899"/>
+    <nd ref="1204773057"/>
+    <nd ref="13355947408"/>
+    <nd ref="13355947413"/>
+    <nd ref="11022527325"/>
+    <nd ref="1204772597"/>
+    <nd ref="11022527327"/>
+    <nd ref="1204772559"/>
+    <nd ref="1204773018"/>
+    <nd ref="13355947404"/>
+    <nd ref="914052779"/>
+    <nd ref="1204772854"/>
+    <nd ref="914052985"/>
+    <nd ref="1204772863"/>
+    <nd ref="914052559"/>
+    <nd ref="1204772603"/>
+    <nd ref="914053006"/>
+    <nd ref="1204772924"/>
+    <nd ref="914053026"/>
+    <nd ref="1204772672"/>
+    <nd ref="914052644"/>
+    <nd ref="13355947406"/>
+    <nd ref="11022527372"/>
+    <nd ref="13355947405"/>
+    <nd ref="11022527316"/>
+    <nd ref="1204772964"/>
+    <nd ref="11022527318"/>
+    <nd ref="13355947409"/>
+    <tag k="area" v="yes"/>
+    <tag k="area:highway" v="pedestrian"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Parvis Maurice Druon"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"/>
+  </way>
+  <way id="1456301793" version="2" timestamp="2026-09-09T13:08:51Z" changeset="188772971" uid="21301363" user="ID9">
+    <nd ref="1204773018"/>
+    <nd ref="1204772970"/>
+    <nd ref="13355947401"/>
+    <nd ref="11021971671"/>
+    <nd ref="13355947403"/>
+    <nd ref="1204772791"/>
+    <nd ref="13355947402"/>
+    <nd ref="11021971672"/>
+    <nd ref="11022527309"/>
+    <nd ref="1204772716"/>
+    <nd ref="11022527313"/>
+    <nd ref="1204772511"/>
+    <nd ref="11022527372"/>
+    <nd ref="13355947406"/>
+    <nd ref="914052644"/>
+    <nd ref="914053112"/>
+    <nd ref="1204772802"/>
+    <nd ref="914052797"/>
+    <nd ref="1204772852"/>
+    <nd ref="914052742"/>
+    <nd ref="914052794"/>
+    <nd ref="914052680"/>
+    <nd ref="1204772552"/>
+    <nd ref="914053088"/>
+    <nd ref="1204772668"/>
+    <nd ref="914052946"/>
+    <nd ref="914052779"/>
+    <nd ref="13355947404"/>
+    <nd ref="1204773018"/>
+    <tag k="area" v="yes"/>
+    <tag k="area:highway" v="footway"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"/>
+    <tag k="surface" v="compacted"/>
+  </way>
+  <way id="1536553147" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece">
+    <nd ref="13997822364"/>
+    <nd ref="13997822365"/>
+    <nd ref="13997822366"/>
+    <nd ref="13997822367"/>
+    <nd ref="13997822368"/>
+    <nd ref="13997822369"/>
+    <nd ref="13997822370"/>
+    <nd ref="13997822379"/>
+    <nd ref="13997822371"/>
+    <nd ref="13997822372"/>
+    <nd ref="13997822373"/>
+    <tag k="construction" v="service"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="1536553149" version="1" timestamp="2026-07-08T14:44:53Z" changeset="185345902" uid="15908" user="cantece">
+    <nd ref="13997822379"/>
+    <nd ref="13997822380"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+
+</osm>

@@ -1,0 +1,23 @@
+{
+  "query": "Paris, France",
+  "nominatim_url": "https://nominatim.openstreetmap.org/search?q=Paris%2C+France&format=jsonv2&limit=5",
+  "display_name": "Paris, Île-de-France, France métropolitaine, France",
+  "osm_type": "relation",
+  "osm_id": 7444,
+  "latitude": 48.8588897,
+  "longitude": 2.320041,
+  "bbox_wgs84": [
+    2.3184025,
+    48.8578117,
+    2.3216795,
+    48.8599677
+  ],
+  "osm_ways": 68,
+  "sumo_edges": 34,
+  "retrieved_utc": "2026-11-14T04:22:09.641175+00:00",
+  "osm_sha256": "cc5b39d36e906e520479926c11368b0ee0e2554f9149087672508bea3c0e69cc",
+  "netconvert_options": [
+    "--keep-edges.by-vclass",
+    "passenger"
+  ]
+}

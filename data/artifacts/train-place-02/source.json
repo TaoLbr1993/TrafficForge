@@ -1,0 +1,24 @@
+{
+  "query": "New York, New York, USA",
+  "nominatim_url": "https://nominatim.openstreetmap.org/search?q=New+York%2C+New+York%2C+USA&format=jsonv2&limit=5&accept-language=en",
+  "overpass_endpoint": "https://overpass-api.de/api/interpreter",
+  "display_name": "New York, United States",
+  "osm_type": "relation",
+  "osm_id": 175905,
+  "latitude": 40.7127281,
+  "longitude": -74.0060152,
+  "bbox_wgs84": [
+    -74.0074373,
+    40.7116501,
+    -74.0045931,
+    40.7138061
+  ],
+  "osm_ways": 196,
+  "sumo_edges": 65,
+  "retrieved_utc": "2026-11-14T04:24:05.993444+00:00",
+  "osm_sha256": "e09b9c534322386fbbd1f4fef03c7d41b223f09220957066120d3142a3fd9363",
+  "netconvert_options": [
+    "--keep-edges.by-vclass",
+    "passenger"
+  ]
+}

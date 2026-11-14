@@ -1,0 +1,1 @@
+[out:xml][timeout:60];way["highway"](40.7116501,-74.0074373,40.7138061,-74.0045931)->.roads;(.roads;>;rel(bw.roads)["type"="restriction"];>;);out meta;
