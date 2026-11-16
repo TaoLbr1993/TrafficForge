@@ -1,0 +1,22 @@
+{
+  "edit_inputs.zip": {
+    "files": 120,
+    "bytes": 309279,
+    "sha256": "89efd50336ca56c8730e5e4958edacceaba508bbee07d2f65b3d3188abdb3637"
+  },
+  "osm_sources.zip": {
+    "files": 18,
+    "bytes": 13986486,
+    "sha256": "b446ecce5d5a674b01ff3f0015335d89fecf8be3d16870f0f838c16904ef769d"
+  },
+  "real_references.zip": {
+    "files": 220,
+    "bytes": 44593567,
+    "sha256": "04d03d35f57a29aaa34f38fc8418a71df71c2adfe32cd38cb14874501789b4fd"
+  },
+  "synthetic_edit_references.zip": {
+    "files": 640,
+    "bytes": 731455,
+    "sha256": "5d96bea0c71b63b23a53dc7d82f229fcdeb2836b952df72d600102889993e441"
+  }
+}
